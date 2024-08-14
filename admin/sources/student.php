@@ -221,20 +221,15 @@ function viewMans()
 
     if ($act == 'getBC1') { 
         (!empty($where) && $where == " " ? $where .= 'id <> 0' : $where);
-        $where .= " and `MA_DK` = '' ";  
+        $where .= " and (`MA_DK` = '' or `MA_DK` is null) ";  
     }
     
     if ($act == 'collect-graduation') {
         (!empty($where) && $where == " " ? $where .= 'id <> 0' : $where);
         $where .= " and JSON_UNQUOTE(JSON_EXTRACT(graduate, '$.theory.point')) > 0 and JSON_UNQUOTE(JSON_EXTRACT(graduate, '$.geometry.point')) > 0 and JSON_UNQUOTE(JSON_EXTRACT(graduate, '$.cabin.point')) > 0 and JSON_UNQUOTE(JSON_EXTRACT(graduate, '$.dat.point')) > 0";  
     }
-<<<<<<< HEAD
 
     echo $where;
-
-=======
-    
->>>>>>> 9b29925d519b88e424a6ac27d59f4ea93f3cff3f
     $perPage = 50;
     $startpoint = ($curPage * $perPage) - $perPage;
     $limit = " limit " . $startpoint . "," . $perPage;

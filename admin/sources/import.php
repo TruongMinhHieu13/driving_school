@@ -318,52 +318,13 @@ function uploadExcelBC1()
     $fields = [
         'MA_GIAO_DICH','MA_DV_GUI','TEN_DV_GUI','NGAY_GUI','NGUOI_GUI','TONG_SO_BAN_GHI','MA_BCI','MA_SO_GTVT','TEN_SO_GTVT','MA_CSDT','TEN_CSDT','MA_KHOA_HOC','TEN_KHOA_HOC','MA_HANG_DAO_TAO','HANG_GPLX','SO_BCI','NGAY_BCI','LUU_LUONG','SO_HOC_SINH','NGAY_KHAI_GIANG','NGAY_BE_GIANG','SO_QD_KG','NGAY_QD_KG','NGAY_SAT_HACH','THOI_GIAN_DT','SO_TT','MA_DK','HO_TEN_DEM','TEN','HO_VA_TEN','NGAY_SINH','MA_QUOC_TICH','TEN_QUOC_TICH','NOI_TT','NOI_TT_MA_DVHC','NOI_TT_MA_DVQL','NOI_CT','NOI_CT_MA_DVHC','NOI_CT_MA_DVQL','SO_CMT','NGAY_CAP_CMT','NOI_CAP_CMT','GIOI_TINH','HO_VA_TEN_IN','SO_CMND_CU','SO_HO_SO','MA_DV_NHAN_HOSO','TEN_DV_NHAN_HOSO','NGAY_NHAN_HOSO','NGUOI_NHAN_HOSO','MA_LOAI_HOSO','TEN_LOAI_HOSO','ANH_CHAN_DUNG','CHAT_LUONG_ANH','NGAY_THU_NHAN_ANH','NGUOI_THU_NHAN_ANH','SO_GPLX_DA_CO','HANG_GPLX_DA_CO','DV_CAP_GPLX_DACO','TEN_DV_CAP_GPLX_DACO','NOI_CAP_GPLX_DACO','NGAY_CAP_GPLX_DACO','NGAY_HH_GPLX_DACO','NGAY_TT_GPLX_DACO','MA_NOI_HOC_LAIXE','TEN_NOI_HOC_LAIXE','NAM_HOC_LAIXE','SO_NAM_LAIXE','SO_KM_ANTOAN','GIAY_CNSK','HINH_THUC_CAP','HANG_GPLX2','HANG_DAOTAO','CHON_IN_GPLX','MA_GIAY_TO','TEN_GIAY_TO',
     ];
-    $array_info = array(
-            'HO_TEN_DEM'=>'HO_TEN_DEM',
-            'TEN'=>'TEN',
-            'NGAY_SINH'=>'NGAY_SINH',
-            'MA_QUOC_TICH'=>'MA_QUOC_TICH',
-            'TEN_QUOC_TICH'=>'TEN_QUOC_TICH',
-            'NOI_TT'=>'NOI_TT',
-            'NOI_TT_MA_DVHC'=>'NOI_TT_MA_DVHC',
-            'NOI_TT_MA_DVQL'=>'NOI_TT_MA_DVQL',
-            'NOI_CT'=>'NOI_CT',
-            'NOI_CT_MA_DVHC'=>'NOI_CT_MA_DVHC',
-            'NOI_CT_MA_DVQL'=>'NOI_CT_MA_DVQL',
-            'NGAY_CAP_CMT'=>'NGAY_CAP_CMT',
-            'NOI_CAP_CMT'=>'NOI_CAP_CMT',
-            'GIOI_TINH'=>'GIOI_TINH',
-            'HO_VA_TEN_IN'=>'HO_VA_TEN_IN',
-            'SO_CMND_CU'=>'SO_CMND_CU',
-            'SO_HO_SO'=>'SO_HO_SO',
-            'MA_DV_NHAN_HOSO'=>'MA_DV_NHAN_HOSO',
-            'TEN_DV_NHAN_HOSO'=>'TEN_DV_NHAN_HOSO',
-            'NGAY_NHAN_HOSO'=>'NGAY_NHAN_HOSO',
-            'NGUOI_NHAN_HOSO'=>'NGUOI_NHAN_HOSO',
-            'MA_LOAI_HOSO'=>'MA_LOAI_HOSO',
-            'TEN_LOAI_HOSO'=>'TEN_LOAI_HOSO',
-            'CHAT_LUONG_ANH'=>'CHAT_LUONG_ANH',
-            'NGAY_THU_NHAN_ANH'=>'NGAY_THU_NHAN_ANH',
-            'NGUOI_THU_NHAN_ANH'=>'NGUOI_THU_NHAN_ANH',
-            'SO_GPLX_DA_CO'=>'SO_GPLX_DA_CO',
-            'HANG_GPLX_DA_CO'=>'HANG_GPLX_DA_CO',
-            'DV_CAP_GPLX_DACO'=>'DV_CAP_GPLX_DACO',
-            'TEN_DV_CAP_GPLX_DACO'=>'TEN_DV_CAP_GPLX_DACO',
-            'NOI_CAP_GPLX_DACO'=>'NOI_CAP_GPLX_DACO',
-            'NGAY_CAP_GPLX_DACO'=>'NGAY_CAP_GPLX_DACO',
-            'NGAY_HH_GPLX_DACO'=>'NGAY_HH_GPLX_DACO',
-            'NGAY_TT_GPLX_DACO'=>'NGAY_TT_GPLX_DACO',
-            'MA_NOI_HOC_LAIXE'=>'MA_NOI_HOC_LAIXE',
-            'TEN_NOI_HOC_LAIXE'=>'TEN_NOI_HOC_LAIXE',
-            'NAM_HOC_LAIXE'=>'NAM_HOC_LAIXE',
-            'SO_NAM_LAIXE'=>'SO_NAM_LAIXE',
-            'SO_KM_ANTOAN'=>'SO_KM_ANTOAN',
-            'GIAY_CNSK'=>'GIAY_CNSK',
-            'HINH_THUC_CAP'=>'HINH_THUC_CAP',
-            'CHON_IN_GPLX'=>'CHON_IN_GPLX',
-        );
+    $array_info = array('HO_TEN_DEM'=>'HO_TEN_DEM','TEN'=>'TEN','NGAY_SINH'=>'NGAY_SINH','MA_QUOC_TICH'=>'MA_QUOC_TICH','TEN_QUOC_TICH'=>'TEN_QUOC_TICH','NOI_TT'=>'NOI_TT','NOI_TT_MA_DVHC'=>'NOI_TT_MA_DVHC','NOI_TT_MA_DVQL'=>'NOI_TT_MA_DVQL','NOI_CT'=>'NOI_CT','NOI_CT_MA_DVHC'=>'NOI_CT_MA_DVHC','NOI_CT_MA_DVQL'=>'NOI_CT_MA_DVQL','NGAY_CAP_CMT'=>'NGAY_CAP_CMT','NOI_CAP_CMT'=>'NOI_CAP_CMT','GIOI_TINH'=>'GIOI_TINH','HO_VA_TEN_IN'=>'HO_VA_TEN_IN','SO_CMND_CU'=>'SO_CMND_CU','SO_HO_SO'=>'SO_HO_SO','MA_DV_NHAN_HOSO'=>'MA_DV_NHAN_HOSO','TEN_DV_NHAN_HOSO'=>'TEN_DV_NHAN_HOSO','NGAY_NHAN_HOSO'=>'NGAY_NHAN_HOSO','NGUOI_NHAN_HOSO'=>'NGUOI_NHAN_HOSO','MA_LOAI_HOSO'=>'MA_LOAI_HOSO','TEN_LOAI_HOSO'=>'TEN_LOAI_HOSO','CHAT_LUONG_ANH'=>'CHAT_LUONG_ANH','NGAY_THU_NHAN_ANH'=>'NGAY_THU_NHAN_ANH','NGUOI_THU_NHAN_ANH'=>'NGUOI_THU_NHAN_ANH','SO_GPLX_DA_CO'=>'SO_GPLX_DA_CO','HANG_GPLX_DA_CO'=>'HANG_GPLX_DA_CO','DV_CAP_GPLX_DACO'=>'DV_CAP_GPLX_DACO','TEN_DV_CAP_GPLX_DACO'=>'TEN_DV_CAP_GPLX_DACO','NOI_CAP_GPLX_DACO'=>'NOI_CAP_GPLX_DACO','NGAY_CAP_GPLX_DACO'=>'NGAY_CAP_GPLX_DACO','NGAY_HH_GPLX_DACO'=>'NGAY_HH_GPLX_DACO','NGAY_TT_GPLX_DACO'=>'NGAY_TT_GPLX_DACO','MA_NOI_HOC_LAIXE'=>'MA_NOI_HOC_LAIXE','TEN_NOI_HOC_LAIXE'=>'TEN_NOI_HOC_LAIXE','NAM_HOC_LAIXE'=>'NAM_HOC_LAIXE','SO_NAM_LAIXE'=>'SO_NAM_LAIXE','SO_KM_ANTOAN'=>'SO_KM_ANTOAN','GIAY_CNSK'=>'GIAY_CNSK','HINH_THUC_CAP'=>'HINH_THUC_CAP','CHON_IN_GPLX'=>'CHON_IN_GPLX');
 
     $savedSuccess = 0;
+
+    $where = " ";
+
+    $type = (!empty($_REQUEST['type']) ? $_REQUEST['type'] : '');
 
     if (isset($_POST['importExcel']) || 1) {
         $file_type = $_FILES['file-excel']['type'];
@@ -380,22 +341,23 @@ function uploadExcelBC1()
             foreach ($objPHPExcel->getWorksheetIterator() as $worksheet) {
                 $highestRow = $worksheet->getHighestRow();
                 for ($row = 2; $row <= $highestRow; ++$row) {
-                    $cell = $worksheet->getCellByColumnAndRow(8, $row);
+                    $cell = $worksheet->getCellByColumnAndRow(39, $row);
                     $SO_CMT = $cell->getValue();
+                    $data_giayto = array();
+                    
                     if (!empty($SO_CMT)) {
                         $data = array();
                         $savedSuccess++;
 
-                        if (!empty($student['MA_DK'])) {
-                            $rowCheck = $d->rawQueryOne("select data_student from #_student where SO_CMT = ?", array($SO_CMT));
-                            if (!empty($rowCheck)) $data_student = json_decode($rowCheck['data_student'],true);
-                            else $data_student = array();
-                        } else {
-                            $data_student = array();
+                        $rowCheck = $d->rawQueryOne("select data_student, data_hoso from #_student where SO_CMT = ?", array($SO_CMT));
+                        if (!empty($rowCheck)) {
+                            $data_student = json_decode($rowCheck['data_student'],true);
+                            $giayto = json_decode($rowCheck['data_hoso'],true);
                         }
-
-                        $data_student = array();
-                        $data_giayto = array();
+                        else {
+                            $data_student = array();
+                            $giayto = array();
+                        }
                         foreach ($fields as $index => $field) {
                             $cell = $worksheet->getCellByColumnAndRow($index, $row);
                             $$field = $cell->getValue();
@@ -404,7 +366,6 @@ function uploadExcelBC1()
                             } elseif($field == 'NGAY_SINH' || $field == 'NGAY_NHAN_HOSO' || $field == 'NGAY_CAP_GPLX_DACO' || $field == 'NGAY_TT_GPLX_DACO') {
                                 $data_student[$field] = (!empty($$field) ? strtotime(str_replace("/", "-", $$field)) : '' );
                             }elseif($field == 'HANG_GPLX') {
-
                                 $rowGPLX = $d->rawQueryOne("select * from #_gplx where namevi = ? ", array($$field));
                                 if (!empty($rowGPLX)) {
                                     $data[$field] = $rowGPLX['id'];
@@ -414,16 +375,26 @@ function uploadExcelBC1()
                             } elseif(in_array($field,$array_info)) {
                                 $data_student[$field] = (!empty($$field) ? $$field : '');
                             } elseif($field == 'MA_GIAY_TO') {
-                                $data_giayto['GIAY_TO']['MA_GIAY_TO'] = (!empty($$field) ? $$field : '');
+                                $data_giayto['MA_GIAY_TO'] = (!empty($$field) ? $$field : '');
                             } elseif($field == 'TEN_GIAY_TO') {
-                                $data_giayto['GIAY_TO']['TEN_GIAY_TO'] = (!empty($$field) ? $$field : '');
+                                $data_giayto['TEN_GIAY_TO'] = (!empty($$field) ? $$field : '');
                             }
                         }
-                        
-                        $data['data_hoso'] = json_encode($data_giayto);
+
+                        $checkHS = $d->rawQueryOne("select data_student, data_hoso from #_student where SO_CMT = ?", array($SO_CMT));
+                        if(!empty($checkHS['data_hoso'])){
+                            $arr['GIAY_TO'] = json_decode($checkHS['data_hoso'],true)['GIAY_TO'];    
+                        } else {
+                            $arr['GIAY_TO'] = array();
+                        }
+                        $arr['GIAY_TO'][$data_giayto['MA_GIAY_TO']] = $data_giayto;
+                        $data['data_hoso'] = json_encode($arr);
                         $data['data_student'] = json_encode($data_student);
+
+                        if($type == 'bc1') $where .= "  and (`MA_DK` = '' or `MA_DK` is null)";
+
                         /* Lấy sản phẩm theo mã */
-                        $studentImport = $d->rawQueryOne("select id from #_student where MA_KHOA_HOC = ? and SO_CMT = ? limit 0,1", array($MA_KHOA_HOC, $SO_CMT));
+                        $studentImport = $d->rawQueryOne("select id from #_student where MA_KHOA_HOC = ? and SO_CMT = ? $where limit 0,1", array($MA_KHOA_HOC, $SO_CMT));
                         
                         /* Gán dữ liệu */
                         if (isset($studentImport['id']) && $studentImport['id'] > 0) {
@@ -435,28 +406,29 @@ function uploadExcelBC1()
                                 $mess .= 'Lỗi tại dòng: ' . $row . "<br>";
                             }
                         } else {
-                            $data_result_test['theory']['note'] = '';
-                            $data_result_test['theory']['point'] = 1;
-                            $data_result_test['geometry']['note'] = '';
-                            $data_result_test['geometry']['point'] = 1;
-                            $data_result_test['cabin']['note'] = '';
-                            $data_result_test['cabin']['point'] = 0;
-                            $data_result_test['dat']['note'] = '';
-                            $data_result_test['dat']['point'] = 0;
-                            $data_result_test['fee-graduation'] = 0;
-                            $data['graduate'] = json_encode($data_result_test);
+                            if($type != 'bc1'){
+                                $data_result_test['theory']['note'] = '';
+                                $data_result_test['theory']['point'] = 1;
+                                $data_result_test['geometry']['note'] = '';
+                                $data_result_test['geometry']['point'] = 1;
+                                $data_result_test['cabin']['note'] = '';
+                                $data_result_test['cabin']['point'] = 0;
+                                $data_result_test['dat']['note'] = '';
+                                $data_result_test['dat']['point'] = 0;
+                                $data_result_test['fee-graduation'] = 0;
+                                $data['graduate'] = json_encode($data_result_test);
 
-                            if ($d->insert('student', $data)) {
-                                $mess .= '';
-                            } else {
-                                $mess .= 'Lỗi tại dòng: ' . $row . "<br>";
+                                if ($d->insert('student', $data)) {
+                                    $mess .= '';
+                                } else {
+                                    $mess .= 'Lỗi tại dòng: ' . $row . "<br>";
+                                }
                             }
                         }
                     }
                 }
-                $func->dump($data_giayto,1);
-                $func->dump($data,1);
             }
+
 
             if ($savedSuccess == 0) $func->transfer("Không tìm thấy học viên hợp lệ !","index.php?com=graduate&act=man",false);
 

@@ -12,8 +12,7 @@ $linkCopy = "index.php?com=student&act=copy";
 $linkEdit = "index.php?com=student&act=edit";
 $linkDelete = "index.php?com=student&act=delete";
 $linkMulti = "index.php?com=student&act=man_photo&kind=man";
-$linkImportXML = "index.php?com=import&act=uploadXMLBC1";
-$linkImportExcel = "index.php?com=import&act=uploadExcelBC1";
+
 
 $validate_filter = '';
 foreach($_GET as $k => $v){
@@ -27,9 +26,13 @@ foreach($_GET as $k => $v){
 if ($act == 'getBC1') {
     $linkExportExcel = "index.php?com=export&act=exportExcel&student-id=0".$validate_filter;
     $linkExportXML = "index.php?com=export&act=exportXMLBC1&student-id=0".$validate_filter;
+    $linkImportXML = "index.php?com=import&act=uploadXMLBC1&type=bc1";
+    $linkImportExcel = "index.php?com=import&act=uploadExcelBC1&type=bc1";
 } else {
     $linkExportExcel = "index.php?com=export&act=exportExcel".$validate_filter;
     $linkExportXML = "index.php?com=export&act=exportXMLBC1".$validate_filter;
+    $linkImportXML = "index.php?com=import&act=uploadXMLBC1";
+$linkImportExcel = "index.php?com=import&act=uploadExcelBC1";
 }
 
 $linkPrint = "index.php?com=student&act=print".$validate_filter;
@@ -265,18 +268,12 @@ $gplx = $d->rawQuery("select id, namevi, age from #_gplx where id <> 0 and find_
         </div>
 
         <?php if ($com == 'student' && $act == 'man'){ ?>
-<<<<<<< HEAD
             <div class="col-12 d-flex justify-content-between">
                 <p class="w-25"><b>Tổng số học viên</b>: <span class="font-weight-bold text-danger"><?=(!empty($countAll)) ? $countAll['num'] : 0?></p>
                 <div class=" w-25 d-flex justify-content-end">
                     <p class="mr-2"><b>Tổng tiền</b>: <span class="font-weight-bold text-danger format-price"><?=(!empty($fee) ? $fee : 0)?></span></p>
                     <p><b>Số học viên</b>: <span class="font-weight-bold text-danger"><?=(!empty($count)) ? $count['num'] : 0?></p>
                 </div>
-=======
-            <div class="d-flex justify-content-end col-12">
-                <p class="mr-2"><b>Tổng tiền</b>: <span class="font-weight-bold text-danger format-price"><?=(!empty($fee) ? $fee : 0)?></span></p>
-                <p><b>Tổng số học viên</b>: <span class="font-weight-bold text-danger"><?=(!empty($count)) ? $count['num'] : 0?></p>
->>>>>>> 9b29925d519b88e424a6ac27d59f4ea93f3cff3f
             </div>
         <?php } ?>
     </div>
