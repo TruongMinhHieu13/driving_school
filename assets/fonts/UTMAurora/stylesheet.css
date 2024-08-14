@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'UTM Aurora';
+    src: url('UTMAurora.eot');
+    src: url('UTMAurora.eot?#iefix') format('embedded-opentype'),
+        url('UTMAurora.woff2') format('woff2'),
+        url('UTMAurora.woff') format('woff'),
+        url('UTMAurora.ttf') format('truetype'),
+        url('UTMAurora.svg#UTMAurora') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BAO_CAO1>
+  <HEADER>
+    <MA_GIAO_DICH>dad4eb90-dc4a-4458-bb46-236bee01fea5</MA_GIAO_DICH>
+    <MA_DV_GUI>79038</MA_DV_GUI>
+    <TEN_DV_GUI>Trung Tâm Giáo Dục Nghề Nghiệp Lái Xe Tiến Đạt</TEN_DV_GUI>
+    <NGAY_GUI>2024-08-02 11:12:54</NGAY_GUI>
+    <NGUOI_GUI>ADMIN</NGUOI_GUI>
+    <TONG_SO_BAN_GHI>3</TONG_SO_BAN_GHI>
+  </HEADER>
+  <DATA>
+    <KHOA_HOC>
+      <MA_BCI/>
+      <MA_SO_GTVT/>
+      <TEN_SO_GTVT/>
+      <MA_CSDT/>
+      <TEN_CSDT/>
+      <MA_KHOA_HOC/>
+      <TEN_KHOA_HOC/>
+      <MA_HANG_DAO_TAO/>
+      <HANG_GPLX/>
+      <SO_BCI/>
+      <NGAY_BCI/>
+      <LUU_LUONG/>
+      <SO_HOC_SINH/>
+      <NGAY_KHAI_GIANG/>
+      <NGAY_BE_GIANG/>
+      <SO_QD_KG/>
+      <NGAY_QD_KG/>
+      <NGAY_SAT_HACH/>
+      <THOI_GIAN_DT/>
+    </KHOA_HOC>
+    <NGUOI_LXS>
+      <NGUOI_LX>
+        <SO_TT/>
+        <MA_DK/>
+        <HO_TEN_DEM>HỒ LÊ TUẤN</HO_TEN_DEM>
+        <TEN>AN</TEN>
+        <HO_VA_TEN>HỒ LÊ TUẤN AN</HO_VA_TEN>
+        <NGAY_SINH/>
+        <MA_QUOC_TICH>VNM</MA_QUOC_TICH>
+        <TEN_QUOC_TICH/>
+        <NOI_TT>1592/26, Kp2,</NOI_TT>
+        <NOI_TT_MA_DVHC/>
+        <NOI_TT_MA_DVQL/>
+        <NOI_CT>1592/26, Kp2,</NOI_CT>
+        <NOI_CT_MA_DVHC/>
+        <NOI_CT_MA_DVQL/>
+        <SO_CMT>079097019833</SO_CMT>
+        <NGAY_CAP_CMT/>
+        <NOI_CAP_CMT/>
+        <GIOI_TINH>M</GIOI_TINH>
+        <HO_VA_TEN_IN>HỒ LÊ TUẤN AN</HO_VA_TEN_IN>
+        <SO_CMND_CU/>
+        <HO_SO>
+          <SO_HO_SO/>
+          <MA_DV_NHAN_HOSO/>
+          <TEN_DV_NHAN_HOSO/>
+          <NGAY_NHAN_HOSO/>
+          <NGUOI_NHAN_HOSO/>
+          <MA_LOAI_HOSO/>
+          <TEN_LOAI_HOSO/>
+          <ANH_CHAN_DUNG/>
+          <CHAT_LUONG_ANH/>
+          <NGAY_THU_NHAN_ANH/>
+          <NGUOI_THU_NHAN_ANH/>
+          <SO_GPLX_DA_CO>790150130770</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <DV_CAP_GPLX_DACO/>
+          <TEN_DV_CAP_GPLX_DACO/>
+          <NOI_CAP_GPLX_DACO/>
+          <NGAY_CAP_GPLX_DACO/>
+          <NGAY_HH_GPLX_DACO/>
+          <NGAY_TT_GPLX_DACO/>
+          <MA_NOI_HOC_LAIXE/>
+          <TEN_NOI_HOC_LAIXE/>
+          <NAM_HOC_LAIXE>2024</NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE/>
+          <SO_KM_ANTOAN/>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <HINH_THUC_CAP/>
+          <HANG_GPLX>B2</HANG_GPLX>
+          <HANG_DAOTAO/>
+          <CHON_IN_GPLX/>
+        </HO_SO>
+        <GIAY_TOS/>
+      </NGUOI_LX>
+      <NGUOI_LX>
+        <SO_TT/>
+        <MA_DK/>
+        <HO_TEN_DEM>NGUYỄN HOÀNG</HO_TEN_DEM>
+        <TEN>ANH</TEN>
+        <HO_VA_TEN>NGUYỄN HOÀNG ANH</HO_VA_TEN>
+        <NGAY_SINH/>
+        <MA_QUOC_TICH/>
+        <TEN_QUOC_TICH/>
+        <NOI_TT>78 Hồ Bá Phấn, Kp4,</NOI_TT>
+        <NOI_TT_MA_DVHC/>
+        <NOI_TT_MA_DVQL/>
+        <NOI_CT/>
+        <NOI_CT_MA_DVHC/>
+        <NOI_CT_MA_DVQL/>
+        <SO_CMT>079205022724</SO_CMT>
+        <NGAY_CAP_CMT/>
+        <NOI_CAP_CMT/>
+        <GIOI_TINH>F</GIOI_TINH>
+        <HO_VA_TEN_IN>NGUYỄN HOÀNG ANH</HO_VA_TEN_IN>
+        <SO_CMND_CU/>
+        <HO_SO>
+          <SO_HO_SO/>
+          <MA_DV_NHAN_HOSO/>
+          <TEN_DV_NHAN_HOSO/>
+          <NGAY_NHAN_HOSO/>
+          <NGUOI_NHAN_HOSO/>
+          <MA_LOAI_HOSO/>
+          <TEN_LOAI_HOSO/>
+          <ANH_CHAN_DUNG/>
+          <CHAT_LUONG_ANH/>
+          <NGAY_THU_NHAN_ANH/>
+          <NGUOI_THU_NHAN_ANH/>
+          <SO_GPLX_DA_CO/>
+          <HANG_GPLX_DA_CO/>
+          <DV_CAP_GPLX_DACO/>
+          <TEN_DV_CAP_GPLX_DACO/>
+          <NOI_CAP_GPLX_DACO/>
+          <NGAY_CAP_GPLX_DACO/>
+          <NGAY_HH_GPLX_DACO/>
+          <NGAY_TT_GPLX_DACO/>
+          <MA_NOI_HOC_LAIXE/>
+          <TEN_NOI_HOC_LAIXE/>
+          <NAM_HOC_LAIXE/>
+          <SO_NAM_LAIXE/>
+          <SO_KM_ANTOAN/>
+          <GIAY_CNSK/>
+          <HINH_THUC_CAP/>
+          <HANG_GPLX>B2</HANG_GPLX>
+          <HANG_DAOTAO/>
+          <CHON_IN_GPLX/>
+        </HO_SO>
+        <GIAY_TOS/>
+      </NGUOI_LX>
+      <NGUOI_LX>
+        <SO_TT/>
+        <MA_DK/>
+        <HO_TEN_DEM>NGUYỄN TUẤN</HO_TEN_DEM>
+        <TEN>ANH</TEN>
+        <HO_VA_TEN>NGUYỄN TUẤN ANH</HO_VA_TEN>
+        <NGAY_SINH/>
+        <MA_QUOC_TICH/>
+        <TEN_QUOC_TICH/>
+        <NOI_TT/>
+        <NOI_TT_MA_DVHC/>
+        <NOI_TT_MA_DVQL/>
+        <NOI_CT/>
+        <NOI_CT_MA_DVHC/>
+        <NOI_CT_MA_DVQL/>
+        <SO_CMT>077092007818</SO_CMT>
+        <NGAY_CAP_CMT/>
+        <NOI_CAP_CMT/>
+        <GIOI_TINH>M</GIOI_TINH>
+        <HO_VA_TEN_IN>NGUYỄN TUẤN ANH</HO_VA_TEN_IN>
+        <SO_CMND_CU/>
+        <HO_SO>
+          <SO_HO_SO/>
+          <MA_DV_NHAN_HOSO/>
+          <TEN_DV_NHAN_HOSO/>
+          <NGAY_NHAN_HOSO/>
+          <NGUOI_NHAN_HOSO/>
+          <MA_LOAI_HOSO/>
+          <TEN_LOAI_HOSO/>
+          <ANH_CHAN_DUNG/>
+          <CHAT_LUONG_ANH/>
+          <NGAY_THU_NHAN_ANH/>
+          <NGUOI_THU_NHAN_ANH/>
+          <SO_GPLX_DA_CO/>
+          <HANG_GPLX_DA_CO/>
+          <DV_CAP_GPLX_DACO/>
+          <TEN_DV_CAP_GPLX_DACO/>
+          <NOI_CAP_GPLX_DACO/>
+          <NGAY_CAP_GPLX_DACO/>
+          <NGAY_HH_GPLX_DACO/>
+          <NGAY_TT_GPLX_DACO/>
+          <MA_NOI_HOC_LAIXE/>
+          <TEN_NOI_HOC_LAIXE/>
+          <NAM_HOC_LAIXE/>
+          <SO_NAM_LAIXE/>
+          <SO_KM_ANTOAN/>
+          <GIAY_CNSK/>
+          <HINH_THUC_CAP/>
+          <HANG_GPLX>B2</HANG_GPLX>
+          <HANG_DAOTAO/>
+          <CHON_IN_GPLX/>
+        </HO_SO>
+        <GIAY_TOS/>
+      </NGUOI_LX>
+    </NGUOI_LXS>
+  </DATA>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+        <DigestValue/>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue/>
+  </Signature>
+</BAO_CAO1>

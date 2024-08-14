@@ -1,0 +1,105 @@
+.wrap-user { width: 100%; max-width: 550px; margin: auto; border: 1px solid #bce8f1; border-radius: 5px; }
+.title-user { background-color: #d9edf7; padding: 12px 15px; border-radius: 5px 5px 0px 0px; }
+.title-user span {color: #31708f;font-weight: 600;font-size: 15px;text-transform: uppercase;}
+.title-user a { color: #0056b3; font-size: 12px; }
+.form-user { padding: 20px 15px; }
+.form-user label { color: var(--main-color); font-weight: 700; }
+.input-user { margin-bottom: 0.75rem; }
+.input-user select, .input-user input { font-size: 14px; height: 42px; color: #798088; }
+.button-user {margin-bottom: 1rem;margin-left: 20px;}
+
+.button-user input.btn-block {
+    min-width: 160px;
+    background: var(--main-color);
+    border-color: currentColor;
+}
+
+input.btn.btn-main.btn-block:hover {
+    background: var(--second-color);
+    color: #fff;
+}
+.button-user input { font-size: 14px; }
+.checkbox-user, .radio-user { cursor: pointer; }
+.checkbox-user input { top: calc(50% - 1.25rem/2); height: auto; }
+.checkbox-user label { font-size: 14px; cursor: pointer; }
+.checkbox-user label::before, .checkbox-user label::after { top: calc(50% - 1rem/2); }
+.radio-user { margin-right: 1rem; }
+.radio-user:last-child { margin-right: 0px; }
+.radio-user label::before, .radio-user label::after { top: calc(50% - 1rem/2); }
+.note-user {font-size: 14px;border-top: 1px solid #ddd;padding-top: 25px;text-align: center;}
+
+.note-user a {
+    color: var(--main-color);
+    font-weight: 700;
+}
+.title-user-page {margin-bottom: 15px;font-family: 'UTMAurora';text-align: center;}
+
+.title-user-page p {
+    font-size: 40px;
+    text-transform: uppercase;
+    color: var(--main-color);
+}
+.input-forgot-password a { font-weight: 700; color: var(--main-color); }
+.btn-login input {background: var(--main-color);width: 100%;color: #fff;border: none;}
+.btn-login input:hover { background: #ECB429; color: #fff; }
+.btn-main { background: var(--main-color); color: #fff; }
+.box-user { border: 1px solid #d9edf7; border-radius: 10px; padding: 15px; }
+.list-content a { display: block; padding: 10px 0px; font-weight: 700; color: #000; }
+
+.list-content a.act {
+    color: var(--main-color);
+}
+.list-content a:hover { color: var(--main-color); }
+p.account-name { font-weight: 700; color: var(--main-color); margin-bottom: 4px; }
+.avatar_user {margin-bottom: 15px;text-align: center;}
+
+.avatar_user .photoUpload-detail {
+    text-align: center;
+}
+
+.avatar_user img {
+    max-width: 100px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.btn-avatar { margin-bottom: 0; margin-top: 10px; background: var(--main-color); }
+.btn-avatar:hover { box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; }
+.user-header a img { border-radius: 250px; }
+.tab-status-order span { display: inline-block; padding: 12px 35px; border-bottom: 2px solid transparent; cursor: pointer; }
+.tab-status-order span.act { border-color: var(--main-color); }
+.tab-status-order { display: flex; justify-content: space-between; }
+.wrap-order {padding: 5px 10px;box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;margin: 10px;margin-bottom: 30px;padding-bottom: 15px;}
+label { display: inline-block; margin-bottom: .5rem; }
+.items-photo-letter a { border: 1px solid #d4cccc; display: block; position: relative; }
+.items-photo-letter{position: relative;}
+.items-photo-letter:hover .delete-photo-user { opacity: 1; visibility: visible; transition: all .3s; cursor: pointer; z-index: 90; }
+.delete-photo-user { position: absolute; top: 3px; right: 10px; width: 30px; height: 30px; background: red; text-align: center; line-height: 30px; color: #fff; border-radius: 3px; opacity: 0; visibility: hidden; transition: all .3s; }
+
+
+.btn-result-graduate {
+    border-radius: 5px;
+    background: #0788FF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    color: #fff;
+    text-align: center;
+    font-weight: 700;
+    display: block;
+    padding: 3px 5px;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.btn-result-graduate.dau {
+    background: #E20909;
+}
+
+.note-graduate {
+    border-radius: 2px;
+    background: #D9D9D9;
+    font-weight: 700;
+    white-space: nowrap;
+    padding: 3px 5px;
+    margin-left: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BAO_CAO2>
+  <HEADER>
+    <MA_GIAO_DICH>253ffb8a-b302-42fc-a30c-abaece60f555</MA_GIAO_DICH>
+    <MA_DV_GUI>79038</MA_DV_GUI>
+    <TEN_DV_GUI>Trung Tâm Giáo Dục Nghề Nghiệp Lái Xe Tiến Đạt</TEN_DV_GUI>
+    <NGAY_GUI>2024-05-06 08:40:30</NGAY_GUI>
+    <NGUOI_GUI>ADMIN</NGUOI_GUI>
+    <TONG_SO_BAN_GHI>28</TONG_SO_BAN_GHI>
+  </HEADER>
+  <DATA>
+    <HO_SO>
+      <SO_TT>1</SO_TT>
+      <MA_DK>79038-20230804104556353</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>VA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>2</SO_TT>
+      <MA_DK>79038-20230719160537090</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>RO</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>3</SO_TT>
+      <MA_DK>79038-20230830135017860</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>RO</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>4</SO_TT>
+      <MA_DK>79038-20230928092225170</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>DA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>5</SO_TT>
+      <MA_DK>79038-20231125104513250</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>VA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>6</SO_TT>
+      <MA_DK>79038-20230928094708970</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>DA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>7</SO_TT>
+      <MA_DK>79038-20230928085931317</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>RH</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>8</SO_TT>
+      <MA_DK>79038-20221021094120847</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>RO</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>9</SO_TT>
+      <MA_DK>79038-20221228142857600</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>VA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>10</SO_TT>
+      <MA_DK>79038-20230928094201277</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>DA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>11</SO_TT>
+      <MA_DK>79038-20231125111005567</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>KDDK</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>12</SO_TT>
+      <MA_DK>79038-20230830144225220</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>VA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>13</SO_TT>
+      <MA_DK>79038-20230804154803690</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>RH</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>14</SO_TT>
+      <MA_DK>79038-20231107142113887</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>DA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>15</SO_TT>
+      <MA_DK>79038-20220727082138087</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>DA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>16</SO_TT>
+      <MA_DK>79038-20230510174530030</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>RO</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>17</SO_TT>
+      <MA_DK>79038-20230510173652710</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>DA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>18</SO_TT>
+      <MA_DK>79038-20230906095157757</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>DA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>19</SO_TT>
+      <MA_DK>79038-20231125110802360</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>RO</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>20</SO_TT>
+      <MA_DK>79038-20231125101011743</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>DA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>21</SO_TT>
+      <MA_DK>79038-20221124090653457</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>DA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>22</SO_TT>
+      <MA_DK>79038-20221228155456340</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>DA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>23</SO_TT>
+      <MA_DK>79038-20231125100125110</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>RO</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>24</SO_TT>
+      <MA_DK>79038-20231125103410407</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>DA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>25</SO_TT>
+      <MA_DK>79038-20230720085953877</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>DA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>26</SO_TT>
+      <MA_DK>79038-20221228092006740</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>VA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>27</SO_TT>
+      <MA_DK>79038-20230510174947833</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>RO</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <SO_TT>28</SO_TT>
+      <MA_DK>79038-20230804165843670</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>VA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+  </DATA>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>FX/FfIbAwq/qaAFIEr7ERLDDWKI=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>EB0LZObo7g9D7OTqLH+dcTvqO0bmhuBWQ7fkww6CpmSW5e/KObg/Cv2DnSSP+PwztwUTffoKeWsba1V/Lci2zXL22VEdV/3KRCxcLxWbUbKXPdBuQI3mQK25IcE5WrIP/vOZ7wEm7OfLoAjnN9HXoPnYZi5FQwc8oE8E2IlbfZM=</SignatureValue>
+  </Signature>
+</BAO_CAO2>

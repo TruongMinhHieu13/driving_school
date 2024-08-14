@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SAT_HACH>
+  <HEADER>
+    <MA_GIAO_DICH>5bb462da-19ea-4dc0-9d75-be70067778c1</MA_GIAO_DICH>
+    <MA_DV_GUI>79</MA_DV_GUI>
+    <MA_DV_NHAN>79038</MA_DV_NHAN>
+    <TEN_DV_GUI>Hồ Chí Minh</TEN_DV_GUI>
+    <NGAY_GUI>2024-05-31 21:08:54</NGAY_GUI>
+    <NGUOI_GUI>MINHQUOC</NGUOI_GUI>
+    <TONG_SO_BAN_GHI>499</TONG_SO_BAN_GHI>
+  </HEADER>
+  <DATA>
+    <HO_SO>
+      <MA_DK>79038-20240403091138157</MA_DK>
+      <SO_HO_SO>015</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>001</SO_BAO_DANH>
+      <KET_QUA_SH>DA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <MA_DK>79038-20240403104735873</MA_DK>
+      <SO_HO_SO>010</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>002</SO_BAO_DANH>
+      <KET_QUA_SH>DA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>35</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <MA_DK>79038-20240403103749607</MA_DK>
+      <SO_HO_SO>027</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>003</SO_BAO_DANH>
+      <KET_QUA_SH>DA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>35</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <MA_DK>79038-20240402164856570</MA_DK>
+      <SO_HO_SO>034</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>004</SO_BAO_DANH>
+      <KET_QUA_SH>RO</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>0</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>0</KQ_SH_HINH>
+      <KQ_SH_DUONG>0</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+    <HO_SO>
+      <MA_DK>79038-20240403100614207</MA_DK>
+      <SO_HO_SO>091</SO_HO_SO>
+      <MA_KY_SH>7951724110</MA_KY_SH>
+      <SO_BAO_DANH>005</SO_BAO_DANH>
+      <KET_QUA_SH>DA</KET_QUA_SH>
+      <LAN_SH>0</LAN_SH>
+      <KQ_SH_LYTHUYET>35</KQ_SH_LYTHUYET>
+      <KQ_SH_HINH>100</KQ_SH_HINH>
+      <KQ_SH_DUONG>100</KQ_SH_DUONG>
+      <NX_SH_LYTHUYET></NX_SH_LYTHUYET>
+      <NX_SH_HINH></NX_SH_HINH>
+      <NX_SH_DUONG></NX_SH_DUONG>
+      <SO_QD_TT />
+      <NGAY_QD_TT></NGAY_QD_TT>
+      <SO_GPLX />
+    </HO_SO>
+  </DATA>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>3D1a/MqreO5Ap05bG3xl13W3dtA=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>TO4zsONRBoOK5LQbXz1xVsBcPBGQxibqsFCIaZ3pZXKOmBB4o01kI4MLWxl7UxNkzYfgM7ds7+UQoI6eX4rXvb8HkWJnC4L2WeUa3r+X+F/ZJqwuZPJ5tFDGgTG6PUZzKuNw1ec+IKYcFGCB+dCld25qvkXob4boucNu/7OS4QI=</SignatureValue>
+  </Signature>
+</SAT_HACH>

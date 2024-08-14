@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GIAOVIEN>
+  <DATA>
+    <GIAO_VIENS>
+      <GIAO_VIEN>
+        <MA_GIAO_VIEN>79038-20231114154831593</MA_GIAO_VIEN>
+        <HO_VA_TEN>NGUYỄN TUẤN</HO_VA_TEN>
+        <NGAY_SINH>2001-5-25</NGAY_SINH>
+        <CCCD>19841130</CCCD>
+        <NGAY_CAP_CCCD>2019-5-25</NGAY_CAP_CCCD>
+        <NOI_CAP_CCCD>Dong Nai</NOI_CAP_CCCD>
+        <THUONG_TRU>Xuan Loc</THUONG_TRU>
+        <GIOI_TINH>NAM</GIOI_TINH>
+        <DON_VI_CT>P. ĐT</DON_VI_CT>
+        <HT_TUYEN_DUNG>Biên chế</HT_TUYEN_DUNG>
+        <VAN_HOA>DH</VAN_HOA>
+        <CHUYEN_MON>ĐH Luật học</CHUYEN_MON>
+        <LEVEL>NVSP</LEVEL>
+        <SU_PHAM>NVSP Dạy trình độ sơ cấp</SU_PHAM>
+        <ANH_VAN>A</ANH_VAN>
+        <TIN_HOC>A</TIN_HOC>
+        <HANG_GPLX>B2</HANG_GPLX>
+        <NGAY_CAP_GPLX>2013-6-24</NGAY_CAP_GPLX>
+        <HANG_XE_DAY>B2</HANG_XE_DAY>
+        <GHI_CHU></GHI_CHU>
+        <GIANG_DAYS>
+            <GIANG_DAY>
+              <STT>1</STT>
+              <TEN>Lý thuyết</TEN>
+            </GIANG_DAY>
+            <GIANG_DAY>
+              <STT>2</STT>
+              <TEN>Hình</TEN>
+            </GIANG_DAY>
+        </GIANG_DAYS>
+      </GIAO_VIEN>
+    </GIAO_VIENS>
+  </DATA>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue></DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue></SignatureValue>
+  </Signature>
+</GIAOVIEN>

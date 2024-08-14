@@ -1,0 +1,86 @@
+/* Responsive */
+@media only screen and (max-width:1200px) {
+    .w-menu { display: none; }
+    .menu-moblie, .menu-res { display: block; background: #fff; max-height: 70px; }
+}
+@media (max-width:1200px) {
+    .wrap-full-page { overflow-x: hidden; }
+    .breadCrumbs { margin-top: 0; }
+    .croll__floating-support, .slideshows, .header, .btn-frame, #messages-facebook, .menu { display: none !important; }
+    .menu-res { display: block; }
+    .right-head { display: flex; justify-content: space-between; gap: 10px; }
+    .toolbar { display: block; }
+    .head-bottom { position: fixed; top: 0px; left: 0px; right: 0px; z-index: 999; box-shadow: 0 1px 5px 0 rgb(0 0 0 / 10%); padding: 3px 0; background: #fff; }
+    .check-toolbar { display: block; }
+    .show-toolbar { padding-top: 70px; transition: 0.7s; }
+    .hidden-toolbar { padding-top: 0px; transition: 0.7s; }
+    .hidden-toolbar .toolbar-app { transform: translateY(120%); transition: 0.7s; }
+    .hidden-toolbar .head-bottom { transform: translateY(-120%); transition: 0.7s; }
+    .show-toolbar .toolbar-app { transform: translateY(0); transition: 0.7s; }
+    .show-toolbar .head-bottom { transform: translateY(0); transition: 0.7s; background: #fff; }
+    .wrap-container { margin-bottom: 30px; }
+    .footer-powered { margin-bottom: 50px; }
+    .logo-mobile img { max-height: 64px; }
+    .banner-header img { max-height: 55px; }
+    .company-logo { display: flex; align-items: center; gap: 5px }
+    .slick-prev, .slick-next { display:none!important; }
+}
+@media (max-width:1024px) {
+    .grid-page, .grid-products { grid-template-columns: repeat(4, 1fr); grid-gap: 10px; }
+    .othernews { position: initial; }
+    .footer-news:nth-child(2) { width: 100%; margin: 20px 0; }
+    .footer-news:nth-child(3) { width: 48%; }
+    .footer-news:nth-child(4) { width: 48%; }
+    .footer-news:nth-child(1) { width: 100%; }
+    .left-pro-detail, .right-pro-detail { width: 100%; }
+    .left-pro-detail { margin-bottom: 20px; }
+    .intro-left { width: 100%; margin: 0 auto; margin-bottom: 20px; }
+    .intro-right { width: 100%; }
+    .sub-intro:after{display: none;}
+    .sub-intro{padding-left: 0 }
+    .intro-home:before{display: none;}
+    .criteria-home { width: 100%; }
+    .video-home { width: 100%; margin-bottom: 20px;}
+    .newsletter-home{margin-top: 0;}
+    .video-\&-criteria{padding-bottom: 30px;}
+    .newsletter-home {width: 100%;}
+    .why-home {width: 100%;margin-bottom: 30px;}
+}
+@media (max-width:990px) {
+    .footer-copyright, .footer-statistic { text-align: center; }
+}
+@media (max-width:768px) {
+    .grid-page, .grid-news, .grid-products { grid-template-columns: repeat(3, 1fr); grid-column-gap: 10px; }
+    .row { margin-left: -5px !important; margin-right: -5px !important; }
+    .row>* { padding-left: 5px !important; padding-right: 5px !important; }
+    .wrap-container { margin-bottom: 30px; }
+    .footer-news:nth-child(3), .footer-news:nth-child(4) { width: 100%; margin-bottom: 20px; }
+    .why-home .title-main,.title-main { font-size: 27px; }
+    .sl-30,.sl-20 { margin: 0 -5px; }
+    .sl-30 .slick-slide,.sl-20 .slick-slide { margin: 0 5px; }
+}
+@media (max-width:600px) {
+    .intro-home:after, .intro-left:before, .control-slideshow { display: none; }
+    .name-intro{font-size: 28px;}
+    .pic-video:before{zoom: .7}
+    .wrap-schedule{font-size: 15px;}
+    .item-schedule .line-3, .item-schedule .line-1, .item-schedule .line-2{padding: 7px 25px;}
+    .wrap-schedule{padding: 15px;}
+    
+}
+@media (max-width:480px) {
+    .grid-page, .grid-news, .grid-products { grid-template-columns: repeat(2, 1fr); grid-column-gap: 10px; }
+    .intro-pic-2{padding: 75px 2rem}
+    .intro-pic-1,.intro-pic-3{max-width: 150px;}
+    .in4-criteria{width: 100%;}
+    .item-criteria{flex-wrap: wrap;}
+    .newsletter-home{padding: 30px 10px;border-radius: 10px;}
+    .icon-newsletter{zoom: .8}
+    .name-courses a{font-size: 18px;}
+    .desc-courses{font-size: 15px;line-height: 25px;}
+}
+@media (max-width:320px) {
+    .grid-news, .grid-page, .grid-products { grid-template-columns: repeat(1, 1fr); }
+}
+.header-top { background: var(--main-color); color: #fff; font-size: 13px; padding: 10px; }
+.header-top .flex-header { display: flex; justify-content: space-between; align-items: center; width: calc(100% - 160px); margin-left: auto; }

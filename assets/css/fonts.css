@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'UTMHelvetIns';
+    src: url('../fonts/UTMHelvetIns/UTMHelvetIns.eot');
+    src: url('../fonts/UTMHelvetIns/UTMHelvetIns.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UTMHelvetIns/UTMHelvetIns.woff2') format('woff2'),
+        url('../fonts/UTMHelvetIns/UTMHelvetIns.woff') format('woff'),
+        url('../fonts/UTMHelvetIns/UTMHelvetIns.ttf') format('truetype'),
+        url('../fonts/UTMHelvetIns/UTMHelvetIns.svg#UTMHelvetIns') format('svg');
+    font-weight: nomal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UTMDinhTran';
+    src: url('../fonts/UTMDinhTran/UTMDinhTran.eot');
+    src: url('../fonts/UTMDinhTran/UTMDinhTran.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UTMDinhTran/UTMDinhTran.woff2') format('woff2'),
+        url('../fonts/UTMDinhTran/UTMDinhTran.woff') format('woff'),
+        url('../fonts/UTMDinhTran/UTMDinhTran.ttf') format('truetype'),
+        url('../fonts/UTMDinhTran/UTMDinhTran.svg#UTMDinhTran') format('svg');
+    font-weight: nomal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UTMAurora';
+    src: url('../fonts/UTMAurora/UTMAurora.eot');
+    src: url('../fonts/UTMAurora/UTMAurora.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UTMAurora/UTMAurora.woff2') format('woff2'),
+        url('../fonts/UTMAurora/UTMAurora.woff') format('woff'),
+        url('../fonts/UTMAurora/UTMAurora.ttf') format('truetype'),
+        url('../fonts/UTMAurora/UTMAurora.svg#UTMAurora') format('svg');
+    font-weight: nomal;
+    font-style: normal;
+    font-display: swap;
+}

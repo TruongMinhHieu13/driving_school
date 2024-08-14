@@ -1,0 +1,1495 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BAO_CAO2>
+  <HEADER>
+    <MA_GIAO_DICH>2d47584a-ea2a-48b8-96f0-e93159827b08</MA_GIAO_DICH>
+    <MA_DV_GUI>79038</MA_DV_GUI>
+    <TEN_DV_GUI>Trung Tâm Giáo Dục Nghề Nghiệp Lái Xe Tiến Đạt</TEN_DV_GUI>
+    <NGAY_GUI>2024-05-06 08:40:28</NGAY_GUI>
+    <NGUOI_GUI>ADMIN</NGUOI_GUI>
+    <TONG_SO_BAN_GHI>42</TONG_SO_BAN_GHI>
+  </HEADER>
+  <DATA>
+    <HO_SOS>
+      <HO_SO>
+        <SO_TT>1</SO_TT>
+        <MA_DK>79038-20230930151115313</MA_DK>
+        <HO_TEN_DEM>TRẦN KIM</HO_TEN_DEM>
+        <TEN>BẠC</TEN>
+        <HO_VA_TEN>TRẦN KIM BẠC</HO_VA_TEN>
+        <NGAY_SINH>19820111</NGAY_SINH>
+        <NOI_CT>Số 157 Tỉnh Lộ 8, Tổ 2, Kp 7,</NOI_CT>
+        <NOI_CT_MA_DVHC>27496</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>783</NOI_CT_MA_DVQL>
+        <SO_CMT>079082000317</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>2</SO_TT>
+        <MA_DK>79038-20230930141619470</MA_DK>
+        <HO_TEN_DEM>HOÀNG MINH</HO_TEN_DEM>
+        <TEN>BIÊN</TEN>
+        <HO_VA_TEN>HOÀNG MINH BIÊN</HO_VA_TEN>
+        <NGAY_SINH>19940904</NGAY_SINH>
+        <NOI_CT>Tổ 3, Văn Hiên 1,</NOI_CT>
+        <NOI_CT_MA_DVHC>25351</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>694</NOI_CT_MA_DVQL>
+        <SO_CMT>070094009761</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>004</SO_HO_SO>
+          <SO_GPLX_DA_CO>740232010429</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055217</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>3</SO_TT>
+        <MA_DK>79038-20230930151548283</MA_DK>
+        <HO_TEN_DEM>LÊ VĂN</HO_TEN_DEM>
+        <TEN>BÌNH</TEN>
+        <HO_VA_TEN>LÊ VĂN BÌNH</HO_VA_TEN>
+        <NGAY_SINH>19910929</NGAY_SINH>
+        <NOI_CT>Ấp Voi,</NOI_CT>
+        <NOI_CT_MA_DVHC>25705</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>711</NOI_CT_MA_DVQL>
+        <SO_CMT>072091006214</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>047</SO_HO_SO>
+          <SO_GPLX_DA_CO>720129006452</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055218</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>4</SO_TT>
+        <MA_DK>79038-20230930141259217</MA_DK>
+        <HO_TEN_DEM>MAI TRƯỜNG</HO_TEN_DEM>
+        <TEN>CHÂN</TEN>
+        <HO_VA_TEN>MAI TRƯỜNG CHÂN</HO_VA_TEN>
+        <NGAY_SINH>19961009</NGAY_SINH>
+        <NOI_CT>Ấp Bến Mương,</NOI_CT>
+        <NOI_CT_MA_DVHC>25657</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>710</NOI_CT_MA_DVQL>
+        <SO_CMT>072096010225</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>003</SO_HO_SO>
+          <SO_GPLX_DA_CO></SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO></HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055219</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>5</SO_TT>
+        <MA_DK>79038-20230930145940397</MA_DK>
+        <HO_TEN_DEM>LỮ PHẠM MẠNH</HO_TEN_DEM>
+        <TEN>ĐẠT</TEN>
+        <HO_VA_TEN>LỮ PHẠM MẠNH ĐẠT</HO_VA_TEN>
+        <NGAY_SINH>19930310</NGAY_SINH>
+        <NOI_CT>Ấp 2,</NOI_CT>
+        <NOI_CT_MA_DVHC>25534</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>706</NOI_CT_MA_DVQL>
+        <SO_CMT>054093013159</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>034</SO_HO_SO>
+          <SO_GPLX_DA_CO></SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO></HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055220</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>6</SO_TT>
+        <MA_DK>79038-20230930142013113</MA_DK>
+        <HO_TEN_DEM>NGUYỄN QUỐC</HO_TEN_DEM>
+        <TEN>DŨNG</TEN>
+        <HO_VA_TEN>NGUYỄN QUỐC DŨNG</HO_VA_TEN>
+        <NGAY_SINH>19851120</NGAY_SINH>
+        <NOI_CT>Ấp Tân Phong,</NOI_CT>
+        <NOI_CT_MA_DVHC>25318</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>693</NOI_CT_MA_DVQL>
+        <SO_CMT>070085002144</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>008</SO_HO_SO>
+          <SO_GPLX_DA_CO></SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO></HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055222</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>7</SO_TT>
+        <MA_DK>79038-20230930152151037</MA_DK>
+        <HO_TEN_DEM>VŨ NGỌC</HO_TEN_DEM>
+        <TEN>HẢI</TEN>
+        <HO_VA_TEN>VŨ NGỌC HẢI</HO_VA_TEN>
+        <NGAY_SINH>20020927</NGAY_SINH>
+        <NOI_CT>Thôn 9,</NOI_CT>
+        <NOI_CT_MA_DVHC>23845</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>630</NOI_CT_MA_DVQL>
+        <SO_CMT>030202015723</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>053</SO_HO_SO>
+          <SO_GPLX_DA_CO></SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO></HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055223</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>8</SO_TT>
+        <MA_DK>79038-20230930141213960</MA_DK>
+        <HO_TEN_DEM>TRẦN HOÀI</HO_TEN_DEM>
+        <TEN>HẬN</TEN>
+        <HO_VA_TEN>TRẦN HOÀI HẬN</HO_VA_TEN>
+        <NGAY_SINH>19880101</NGAY_SINH>
+        <NOI_CT>Ấp Phước Hội A,</NOI_CT>
+        <NOI_CT_MA_DVHC>25669</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>710</NOI_CT_MA_DVQL>
+        <SO_CMT>072088006563</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>002</SO_HO_SO>
+          <SO_GPLX_DA_CO>720107023048</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055224</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>9</SO_TT>
+        <MA_DK>79038-20230930142701967</MA_DK>
+        <HO_TEN_DEM>NGUYỄN VỸ</HO_TEN_DEM>
+        <TEN>HÀO</TEN>
+        <HO_VA_TEN>NGUYỄN VỸ HÀO</HO_VA_TEN>
+        <NGAY_SINH>20020502</NGAY_SINH>
+        <NOI_CT>Tổ 4 Khu Phố 5,</NOI_CT>
+        <NOI_CT_MA_DVHC>25357</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>694</NOI_CT_MA_DVQL>
+        <SO_CMT>070202010117</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>014</SO_HO_SO>
+          <SO_GPLX_DA_CO></SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO></HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055225</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>10</SO_TT>
+        <MA_DK>79038-20230930142058070</MA_DK>
+        <HO_TEN_DEM>HOÀNG TRUNG</HO_TEN_DEM>
+        <TEN>HIẾU</TEN>
+        <HO_VA_TEN>HOÀNG TRUNG HIẾU</HO_VA_TEN>
+        <NGAY_SINH>19881226</NGAY_SINH>
+        <NOI_CT>Tổ 2, Xa Cam 2,</NOI_CT>
+        <NOI_CT_MA_DVHC>25320</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>690</NOI_CT_MA_DVQL>
+        <SO_CMT>070088005898</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>009</SO_HO_SO>
+          <SO_GPLX_DA_CO></SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO></HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055226</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>11</SO_TT>
+        <MA_DK>79038-20230930152108250</MA_DK>
+        <HO_TEN_DEM>HUỲNH HOÀNG</HO_TEN_DEM>
+        <TEN>HÔN</TEN>
+        <HO_VA_TEN>HUỲNH HOÀNG HÔN</HO_VA_TEN>
+        <NGAY_SINH>19940921</NGAY_SINH>
+        <NOI_CT>Khu Phố 6,</NOI_CT>
+        <NOI_CT_MA_DVHC>25777</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>720</NOI_CT_MA_DVQL>
+        <SO_CMT>074094004104</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>052</SO_HO_SO>
+          <SO_GPLX_DA_CO></SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO></HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055228</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>12</SO_TT>
+        <MA_DK>79038-20230930144418983</MA_DK>
+        <HO_TEN_DEM>NGUYỄN TRUNG</HO_TEN_DEM>
+        <TEN>KIÊN</TEN>
+        <HO_VA_TEN>NGUYỄN TRUNG KIÊN</HO_VA_TEN>
+        <NGAY_SINH>19960519</NGAY_SINH>
+        <NOI_CT>Thôn Hưng Hòa,</NOI_CT>
+        <NOI_CT_MA_DVHC>18667</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>445</NOI_CT_MA_DVQL>
+        <SO_CMT>042096008681</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>025</SO_HO_SO>
+          <SO_GPLX_DA_CO>420173005437</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055229</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>13</SO_TT>
+        <MA_DK>79038-20231020154338413</MA_DK>
+        <HO_TEN_DEM>ĐẶNG MINH</HO_TEN_DEM>
+        <TEN>LÂM</TEN>
+        <HO_VA_TEN>ĐẶNG MINH LÂM</HO_VA_TEN>
+        <NGAY_SINH>19850101</NGAY_SINH>
+        <NOI_CT>Ấp Cái Sậy</NOI_CT>
+        <NOI_CT_MA_DVHC>27805</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>795</NOI_CT_MA_DVQL>
+        <SO_CMT>080085016819</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>005</SO_HO_SO>
+          <SO_GPLX_DA_CO>800031016887</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055230</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>14</SO_TT>
+        <MA_DK>79038-20230930142434677</MA_DK>
+        <HO_TEN_DEM>LẠI ĐÌNH</HO_TEN_DEM>
+        <TEN>LƯU</TEN>
+        <HO_VA_TEN>LẠI ĐÌNH LƯU</HO_VA_TEN>
+        <NGAY_SINH>19950520</NGAY_SINH>
+        <NOI_CT>Tổ 6, Thanh Thịnh,</NOI_CT>
+        <NOI_CT_MA_DVHC>25333</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>690</NOI_CT_MA_DVQL>
+        <SO_CMT>024095011692</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>012</SO_HO_SO>
+          <SO_GPLX_DA_CO></SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO></HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055232</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>15</SO_TT>
+        <MA_DK>79038-20230930143310200</MA_DK>
+        <HO_TEN_DEM>Y LY SƠN</HO_TEN_DEM>
+        <TEN>MDRANG</TEN>
+        <HO_VA_TEN>Y LY SƠN MDRANG</HO_VA_TEN>
+        <NGAY_SINH>19990507</NGAY_SINH>
+        <NOI_CT>Hra Ea Hning,</NOI_CT>
+        <NOI_CT_MA_DVHC>24561</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>657</NOI_CT_MA_DVQL>
+        <SO_CMT>066099009812</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>017</SO_HO_SO>
+          <SO_GPLX_DA_CO>660172018698</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055233</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>16</SO_TT>
+        <MA_DK>79038-20230930141841240</MA_DK>
+        <HO_TEN_DEM>TÔ VĂN</HO_TEN_DEM>
+        <TEN>MINH</TEN>
+        <HO_VA_TEN>TÔ VĂN MINH</HO_VA_TEN>
+        <NGAY_SINH>19960422</NGAY_SINH>
+        <NOI_CT>Tổ 3, Phố Lố,</NOI_CT>
+        <NOI_CT_MA_DVHC>25339</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>694</NOI_CT_MA_DVQL>
+        <SO_CMT>070096006375</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>006</SO_HO_SO>
+          <SO_GPLX_DA_CO></SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO></HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055235</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>17</SO_TT>
+        <MA_DK>79038-20230930142826077</MA_DK>
+        <HO_TEN_DEM>PHẠM NGUYỄN QUỐC</HO_TEN_DEM>
+        <TEN>NAM</TEN>
+        <HO_VA_TEN>PHẠM NGUYỄN QUỐC NAM</HO_VA_TEN>
+        <NGAY_SINH>20020812</NGAY_SINH>
+        <NOI_CT>Tổ 7, Phú Xuân,</NOI_CT>
+        <NOI_CT_MA_DVHC>25325</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>690</NOI_CT_MA_DVQL>
+        <SO_CMT>070202009618</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>015</SO_HO_SO>
+          <SO_GPLX_DA_CO>790229687332</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055236</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>18</SO_TT>
+        <MA_DK>79038-20230930144307710</MA_DK>
+        <HO_TEN_DEM>NGUYỄN HOÀN</HO_TEN_DEM>
+        <TEN>NGÂN</TEN>
+        <HO_VA_TEN>NGUYỄN HOÀN NGÂN</HO_VA_TEN>
+        <NGAY_SINH>19860106</NGAY_SINH>
+        <NOI_CT>Ấp Mỹ Trinh A,</NOI_CT>
+        <NOI_CT_MA_DVHC>28372</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>819</NOI_CT_MA_DVQL>
+        <SO_CMT>082086011332</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>024</SO_HO_SO>
+          <SO_GPLX_DA_CO>790050830963</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055237</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>19</SO_TT>
+        <MA_DK>79038-20230930151716357</MA_DK>
+        <HO_TEN_DEM>NGUYỄN TẤN</HO_TEN_DEM>
+        <TEN>PHÁT</TEN>
+        <HO_VA_TEN>NGUYỄN TẤN PHÁT</HO_VA_TEN>
+        <NGAY_SINH>19861225</NGAY_SINH>
+        <NOI_CT>Ấp Phước Tân,</NOI_CT>
+        <NOI_CT_MA_DVHC>25726</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>712</NOI_CT_MA_DVQL>
+        <SO_CMT>072086005025</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>048</SO_HO_SO>
+          <SO_GPLX_DA_CO>720051010187</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055240</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>20</SO_TT>
+        <MA_DK>79038-20230930152353260</MA_DK>
+        <HO_TEN_DEM>VI VĂN</HO_TEN_DEM>
+        <TEN>PHÚ</TEN>
+        <HO_VA_TEN>VI VĂN PHÚ</HO_VA_TEN>
+        <NGAY_SINH>19900212</NGAY_SINH>
+        <NOI_CT>Bản Tân Tiến,</NOI_CT>
+        <NOI_CT_MA_DVHC>17759</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>428</NOI_CT_MA_DVQL>
+        <SO_CMT>040090041754</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>055</SO_HO_SO>
+          <SO_GPLX_DA_CO></SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO></HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055241</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>21</SO_TT>
+        <MA_DK>79038-20230930145859077</MA_DK>
+        <HO_TEN_DEM>NGUYỄN MINH</HO_TEN_DEM>
+        <TEN>QUÂN</TEN>
+        <HO_VA_TEN>NGUYỄN MINH QUÂN</HO_VA_TEN>
+        <NGAY_SINH>19960501</NGAY_SINH>
+        <NOI_CT>Ấp 6,</NOI_CT>
+        <NOI_CT_MA_DVHC>25531</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>706</NOI_CT_MA_DVQL>
+        <SO_CMT>072096001242</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>033</SO_HO_SO>
+          <SO_GPLX_DA_CO>720151000079</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055242</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>22</SO_TT>
+        <MA_DK>79038-20230930144818853</MA_DK>
+        <HO_TEN_DEM>TRẦN HOÀNG</HO_TEN_DEM>
+        <TEN>QUÂN</TEN>
+        <HO_VA_TEN>TRẦN HOÀNG QUÂN</HO_VA_TEN>
+        <NGAY_SINH>19850504</NGAY_SINH>
+        <NOI_CT>Khóm 2,</NOI_CT>
+        <NOI_CT_MA_DVHC>30037</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>872</NOI_CT_MA_DVQL>
+        <SO_CMT>087085004575</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>026</SO_HO_SO>
+          <SO_GPLX_DA_CO>870087007340</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055243</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>23</SO_TT>
+        <MA_DK>79038-20230930151204677</MA_DK>
+        <HO_TEN_DEM>LÊ THÀNH</HO_TEN_DEM>
+        <TEN>QUỐC</TEN>
+        <HO_VA_TEN>LÊ THÀNH QUỐC</HO_VA_TEN>
+        <NGAY_SINH>19830616</NGAY_SINH>
+        <NOI_CT>Tổ 3, Ấp Trung Viết,</NOI_CT>
+        <NOI_CT_MA_DVHC>27529</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>783</NOI_CT_MA_DVQL>
+        <SO_CMT>079083037015</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>044</SO_HO_SO>
+          <SO_GPLX_DA_CO></SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO></HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055244</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>24</SO_TT>
+        <MA_DK>79038-20230930150131960</MA_DK>
+        <HO_TEN_DEM>LÊ VĂN</HO_TEN_DEM>
+        <TEN>REN</TEN>
+        <HO_VA_TEN>LÊ VĂN REN</HO_VA_TEN>
+        <NGAY_SINH>19860707</NGAY_SINH>
+        <NOI_CT>533 Hòa Lợi,</NOI_CT>
+        <NOI_CT_MA_DVHC>28999</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>834</NOI_CT_MA_DVQL>
+        <SO_CMT>083086009936</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>036</SO_HO_SO>
+          <SO_GPLX_DA_CO></SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO></HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055245</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>25</SO_TT>
+        <MA_DK>79038-20230930145438157</MA_DK>
+        <HO_TEN_DEM>NGUYỄN NGỌC</HO_TEN_DEM>
+        <TEN>SƠN</TEN>
+        <HO_VA_TEN>NGUYỄN NGỌC SƠN</HO_VA_TEN>
+        <NGAY_SINH>19930209</NGAY_SINH>
+        <NOI_CT></NOI_CT>
+        <NOI_CT_MA_DVHC>23232</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>594</NOI_CT_MA_DVQL>
+        <SO_CMT>261216606</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>030</SO_HO_SO>
+          <SO_GPLX_DA_CO>790148003905</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055247</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>26</SO_TT>
+        <MA_DK>79038-20230930142613730</MA_DK>
+        <HO_TEN_DEM>NGUYỄN THANH</HO_TEN_DEM>
+        <TEN>SƠN</TEN>
+        <HO_VA_TEN>NGUYỄN THANH SƠN</HO_VA_TEN>
+        <NGAY_SINH>20020618</NGAY_SINH>
+        <NOI_CT>Tổ 5, Thanh Hòa,</NOI_CT>
+        <NOI_CT_MA_DVHC>25333</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>690</NOI_CT_MA_DVQL>
+        <SO_CMT>070202004976</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>013</SO_HO_SO>
+          <SO_GPLX_DA_CO>790200177953</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055248</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>27</SO_TT>
+        <MA_DK>79038-20230930141931373</MA_DK>
+        <HO_TEN_DEM>NGUYỄN TRẦN THANH</HO_TEN_DEM>
+        <TEN>TÂM</TEN>
+        <HO_VA_TEN>NGUYỄN TRẦN THANH TÂM</HO_VA_TEN>
+        <NGAY_SINH>19920214</NGAY_SINH>
+        <NOI_CT>Ấp 2,</NOI_CT>
+        <NOI_CT_MA_DVHC>25300</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>692</NOI_CT_MA_DVQL>
+        <SO_CMT>070192005801</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>007</SO_HO_SO>
+          <SO_GPLX_DA_CO></SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO></HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055250</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>28</SO_TT>
+        <MA_DK>79038-20230930145648487</MA_DK>
+        <HO_TEN_DEM>NGUYỄN VĂN</HO_TEN_DEM>
+        <TEN>TÂM</TEN>
+        <HO_VA_TEN>NGUYỄN VĂN TÂM</HO_VA_TEN>
+        <NGAY_SINH>19900926</NGAY_SINH>
+        <NOI_CT>Ấp Tân Hòa,</NOI_CT>
+        <NOI_CT_MA_DVHC>27919</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>801</NOI_CT_MA_DVQL>
+        <SO_CMT>080090009050</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>032</SO_HO_SO>
+          <SO_GPLX_DA_CO>800099004297</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055251</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>29</SO_TT>
+        <MA_DK>79038-20230930142209650</MA_DK>
+        <HO_TEN_DEM>NGUYỄN NGỌC</HO_TEN_DEM>
+        <TEN>THẠCH</TEN>
+        <HO_VA_TEN>NGUYỄN NGỌC THẠCH</HO_VA_TEN>
+        <NGAY_SINH>19990907</NGAY_SINH>
+        <NOI_CT>Thông Nguyên,</NOI_CT>
+        <NOI_CT_MA_DVHC>29761</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>860</NOI_CT_MA_DVQL>
+        <SO_CMT>331848008</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>010</SO_HO_SO>
+          <SO_GPLX_DA_CO>860227002566</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055252</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>30</SO_TT>
+        <MA_DK>79038-20231016093932133</MA_DK>
+        <HO_TEN_DEM>CHÂU MINH</HO_TEN_DEM>
+        <TEN>THẮNG</TEN>
+        <HO_VA_TEN>CHÂU MINH THẮNG</HO_VA_TEN>
+        <NGAY_SINH>19890917</NGAY_SINH>
+        <NOI_CT>670/9 TL15, Tổ 5, Ấp 5,</NOI_CT>
+        <NOI_CT_MA_DVHC>27547</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>783</NOI_CT_MA_DVQL>
+        <SO_CMT>079089012407</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>060</SO_HO_SO>
+          <SO_GPLX_DA_CO></SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO></HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055253</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>31</SO_TT>
+        <MA_DK>79038-20230930154520487</MA_DK>
+        <HO_TEN_DEM>NGUYỄN VĂN</HO_TEN_DEM>
+        <TEN>THẮNG</TEN>
+        <HO_VA_TEN>NGUYỄN VĂN THẮNG</HO_VA_TEN>
+        <NGAY_SINH>19890624</NGAY_SINH>
+        <NOI_CT>Xóm Nghĩa Nhân,</NOI_CT>
+        <NOI_CT_MA_DVHC>16972</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>419</NOI_CT_MA_DVQL>
+        <SO_CMT>040089010216</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>057</SO_HO_SO>
+          <SO_GPLX_DA_CO></SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO></HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055254</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>32</SO_TT>
+        <MA_DK>79038-20231020154709030</MA_DK>
+        <HO_TEN_DEM>TRẦN QUỐC</HO_TEN_DEM>
+        <TEN>THẠNH</TEN>
+        <HO_VA_TEN>TRẦN QUỐC THẠNH</HO_VA_TEN>
+        <NGAY_SINH>19900215</NGAY_SINH>
+        <NOI_CT>Ấp Bình Thủy</NOI_CT>
+        <NOI_CT_MA_DVHC>27961</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>802</NOI_CT_MA_DVQL>
+        <SO_CMT>080090018515</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>041</SO_HO_SO>
+          <SO_GPLX_DA_CO></SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO></HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055255</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>33</SO_TT>
+        <MA_DK>79038-20230930151932463</MA_DK>
+        <HO_TEN_DEM>NGUYỄN NGỌC</HO_TEN_DEM>
+        <TEN>THẢO</TEN>
+        <HO_VA_TEN>NGUYỄN NGỌC THẢO</HO_VA_TEN>
+        <NGAY_SINH>19990823</NGAY_SINH>
+        <NOI_CT>267/22 Long Hòa,</NOI_CT>
+        <NOI_CT_MA_DVHC>28885</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>832</NOI_CT_MA_DVQL>
+        <SO_CMT>083099011658</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>050</SO_HO_SO>
+          <SO_GPLX_DA_CO>860172006257</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055256</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>34</SO_TT>
+        <MA_DK>79038-20230930145517553</MA_DK>
+        <HO_TEN_DEM>MAI MINH</HO_TEN_DEM>
+        <TEN>THIỆN</TEN>
+        <HO_VA_TEN>MAI MINH THIỆN</HO_VA_TEN>
+        <NGAY_SINH>19760101</NGAY_SINH>
+        <NOI_CT>Khóm 1,</NOI_CT>
+        <NOI_CT_MA_DVHC>31732</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>948</NOI_CT_MA_DVQL>
+        <SO_CMT>094076009318</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>031</SO_HO_SO>
+          <SO_GPLX_DA_CO></SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO></HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055257</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>35</SO_TT>
+        <MA_DK>79038-20230930152317490</MA_DK>
+        <HO_TEN_DEM>HỒ HOÀNG</HO_TEN_DEM>
+        <TEN>TOÀN</TEN>
+        <HO_VA_TEN>HỒ HOÀNG TOÀN</HO_VA_TEN>
+        <NGAY_SINH>19890421</NGAY_SINH>
+        <NOI_CT>Kp Gia Tân,</NOI_CT>
+        <NOI_CT_MA_DVHC>25720</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>712</NOI_CT_MA_DVQL>
+        <SO_CMT>072089008200</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>054</SO_HO_SO>
+          <SO_GPLX_DA_CO>720223006347</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055258</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>36</SO_TT>
+        <MA_DK>79038-20230930142324960</MA_DK>
+        <HO_TEN_DEM>NGUYỄN XUÂN</HO_TEN_DEM>
+        <TEN>TOÀN</TEN>
+        <HO_VA_TEN>NGUYỄN XUÂN TOÀN</HO_VA_TEN>
+        <NGAY_SINH>20011005</NGAY_SINH>
+        <NOI_CT>Tổ 1, Phú Cường,</NOI_CT>
+        <NOI_CT_MA_DVHC>25324</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>690</NOI_CT_MA_DVQL>
+        <SO_CMT>037201006236</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>011</SO_HO_SO>
+          <SO_GPLX_DA_CO>790190286387</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055259</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>37</SO_TT>
+        <MA_DK>79038-20230930144938810</MA_DK>
+        <HO_TEN_DEM>NGÔ HOÀNG</HO_TEN_DEM>
+        <TEN>TRIỀU</TEN>
+        <HO_VA_TEN>NGÔ HOÀNG TRIỀU</HO_VA_TEN>
+        <NGAY_SINH>20020620</NGAY_SINH>
+        <NOI_CT>220/9P Xô Viết Nghệ Tĩnh,</NOI_CT>
+        <NOI_CT_MA_DVHC>26953</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>765</NOI_CT_MA_DVQL>
+        <SO_CMT>086202000169</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>027</SO_HO_SO>
+          <SO_GPLX_DA_CO>790207079481</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055262</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>38</SO_TT>
+        <MA_DK>79038-20231020155129193</MA_DK>
+        <HO_TEN_DEM>HỒ ĐÌNH</HO_TEN_DEM>
+        <TEN>TRỌNG</TEN>
+        <HO_VA_TEN>HỒ ĐÌNH TRỌNG</HO_VA_TEN>
+        <NGAY_SINH>20010118</NGAY_SINH>
+        <NOI_CT>Phú Thành</NOI_CT>
+        <NOI_CT_MA_DVHC>25141</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>682</NOI_CT_MA_DVQL>
+        <SO_CMT>068201003716</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>059</SO_HO_SO>
+          <SO_GPLX_DA_CO>790207051823</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055263</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>39</SO_TT>
+        <MA_DK>79038-20230930142905643</MA_DK>
+        <HO_TEN_DEM>NGUYỄN THÀNH</HO_TEN_DEM>
+        <TEN>TRUNG</TEN>
+        <HO_VA_TEN>NGUYỄN THÀNH TRUNG</HO_VA_TEN>
+        <NGAY_SINH>19950927</NGAY_SINH>
+        <NOI_CT>Ấp Kiến An,</NOI_CT>
+        <NOI_CT_MA_DVHC>25801</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>720</NOI_CT_MA_DVQL>
+        <SO_CMT>074095007782</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>016</SO_HO_SO>
+          <SO_GPLX_DA_CO></SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO></HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055264</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>40</SO_TT>
+        <MA_DK>79038-20231011112610620</MA_DK>
+        <HO_TEN_DEM>PHAN VĂN</HO_TEN_DEM>
+        <TEN>TÚ</TEN>
+        <HO_VA_TEN>PHAN VĂN TÚ</HO_VA_TEN>
+        <NGAY_SINH>19830601</NGAY_SINH>
+        <NOI_CT>Tổ DP Ngọc Thị</NOI_CT>
+        <NOI_CT_MA_DVHC>13336</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>349</NOI_CT_MA_DVQL>
+        <SO_CMT>035083013323</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>018</SO_HO_SO>
+          <SO_GPLX_DA_CO>790032310018</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055265</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>41</SO_TT>
+        <MA_DK>79038-20230930151019627</MA_DK>
+        <HO_TEN_DEM>NGUYỄN THANH</HO_TEN_DEM>
+        <TEN>TÙNG</TEN>
+        <HO_VA_TEN>NGUYỄN THANH TÙNG</HO_VA_TEN>
+        <NGAY_SINH>19860316</NGAY_SINH>
+        <NOI_CT>Ấp Thới Thuận,</NOI_CT>
+        <NOI_CT_MA_DVHC>31267</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>927</NOI_CT_MA_DVQL>
+        <SO_CMT>092086000944</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>042</SO_HO_SO>
+          <SO_GPLX_DA_CO>720113006222</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055267</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+      <HO_SO>
+        <SO_TT>42</SO_TT>
+        <MA_DK>79038-20230930151814810</MA_DK>
+        <HO_TEN_DEM>PHAN QUỐC</HO_TEN_DEM>
+        <TEN>VIỆT</TEN>
+        <HO_VA_TEN>PHAN QUỐC VIỆT</HO_VA_TEN>
+        <NGAY_SINH>19810101</NGAY_SINH>
+        <NOI_CT>Ấp Phước Thuận,</NOI_CT>
+        <NOI_CT_MA_DVHC>25738</NOI_CT_MA_DVHC>
+        <NOI_CT_MA_DVQL>712</NOI_CT_MA_DVQL>
+        <SO_CMT>072081008624</SO_CMT>
+        <HO_VA_TEN_IN />
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI/>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH/>
+        <SO_BAO_DANH/>
+        <LAN_SH/>
+        <SO_QD_SH/>
+        <NGAY_QD_SH/>
+        <HO_SO>
+          <SO_HO_SO>049</SO_HO_SO>
+          <SO_GPLX_DA_CO>720037003363</SO_GPLX_DA_CO>
+          <HANG_GPLX_DA_CO>A1</HANG_GPLX_DA_CO>
+          <NAM_HOC_LAIXE></NAM_HOC_LAIXE>
+          <SO_NAM_LAIXE>0</SO_NAM_LAIXE>
+          <SO_KM_ANTOAN>0</SO_KM_ANTOAN>
+          <GIAY_CNSK>1</GIAY_CNSK>
+          <SO_GIAY_CNTN>055268</SO_GIAY_CNTN>
+          <SO_CCN />
+          <BC2_GHICHU></BC2_GHICHU>
+          <NGAY_RA_QDTN>2024-04-22</NGAY_RA_QDTN>
+        </HO_SO>
+      </HO_SO>
+    </HO_SOS>
+  </DATA>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>hpTzNak/x05uf2Ia3BHDCs5Tt9s=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>AG+utjk6D/Wx2oVVRzGg175yEI699Diqm4QnyS5cB+daINiMIAB3xnCDr7AK9yGV3CeE2s6YA1AgoCk4jtuYFvlI4CSwrYLvjQX0/Un39mUt5K8hn5/MPvWOBiapAU3T2leSI1Ndat3HMUPGnEGyaDbWpDBEvqkV+bF+MO+hg9E=</SignatureValue>
+  </Signature>
+</BAO_CAO2>

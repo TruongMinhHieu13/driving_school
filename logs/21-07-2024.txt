@@ -1,0 +1,8 @@
+::1(admin)--update--courses([["","id","=","1"]]) (13:36:34 21/07/2024)
+::1(admin)--update--courses([["","id","=","1"]]) (13:37:22 21/07/2024)
+::1(admin)--update--courses([["","id","=","1"]]) (13:38:06 21/07/2024)
+::1(admin)--update--courses([["","id","=","1"]]) (13:38:17 21/07/2024)
+::1(admin)--update--courses([["","id","=","1"]]) (13:41:30 21/07/2024)
+::1(admin)--update--courses([["","id","=","1"]]) (13:41:46 21/07/2024)
+::1(admin)--update--courses([["","id","=","2"]]) (13:45:58 21/07/2024)
+::1(admin)--query--tables(delete from table_courses where id = '2') (13:48:57 21/07/2024)

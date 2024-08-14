@@ -1,0 +1,490 @@
+<?php
+$linkView = $configBase;
+if ($act != 'manImport') {
+    $linkMan = $linkFilter = "index.php?com=graduate&act=man";
+} else {
+    $linkMan = $linkFilter = "index.php?com=graduate&act=manImport";
+}
+$linkAdd = "index.php?com=graduate&act=add";
+$linkCopy = "index.php?com=graduate&act=copy";
+$linkEdit = "index.php?com=graduate&act=edit";
+$linkDelete = "index.php?com=graduate&act=delete";
+$linkMulti = "index.php?com=graduate&act=man_photo&kind=man";
+$linkImportXML = "index.php?com=import&act=uploadXMLBC2";
+$linkImportExcel = "index.php?com=import&act=uploadExcelBC2";
+
+$linkImportXMLKQBC2 = "index.php?com=import&act=uploadXMLKQBC2";
+$linkImportExcelKQBC2 = "index.php?com=import&act=uploadExcelKQBC2";
+
+$linkImportXMLFileSH = "index.php?com=import&act=uploadXMLFileSH";
+$linkImportExcelFileSH = "index.php?com=import&act=uploadExcelFileSH";
+
+$validate_filter = '';
+foreach($_GET as $k => $v){
+    if ($k == 'com' || $k == 'act') {
+        $validate_filter .= '';
+    } else {
+        $validate_filter .= '&'.$k.'='.$v;
+    }
+}
+
+// Export file BC1
+$linkExportExcel = "index.php?com=export&act=exportExcel&date=1".$validate_filter;
+$linkExportXML = "index.php?com=export&act=exportXMLBC1&date=1".$validate_filter;
+
+// Export file BC2
+$linkExportExcelBC2 = "index.php?com=export&act=exportExcelBC2".$validate_filter;
+$linkExportXMLBC2 = "index.php?com=export&act=exportXMLBC2".$validate_filter;
+
+
+/* Hạng GPLX */
+$gplx = $d->rawQuery("select id, namevi, age from #_gplx where id <> 0 and find_in_set('hienthi',status) order by id asc");
+?>
+<!-- Content Header -->
+<section class="content-header text-sm">
+    <div class="container-fluid">
+        <div class="row">
+            <ol class="breadcrumb float-sm-left">
+                <li class="breadcrumb-item"><a href="index.php" title="<?= dashboard ?>"><?= dashboard ?></a></li>
+                <li class="breadcrumb-item active">Học viên tốt nghiệp</li>
+            </ol>
+        </div>
+    </div>
+</section>
+
+<!-- Main content -->
+<section class="content">
+    <div class="card-footer text-sm sticky-top">
+        <a class="btn btn-sm bg-gradient-primary text-white" href="<?= $linkAdd ?>" title="Thêm mới"><i class="fas fa-plus mr-2"></i><?= themmoi ?> học viên</a>
+        <a class="btn btn-sm bg-gradient-danger text-white" id="delete-all" data-url="<?= $linkDelete ?><?= $strUrl ?>" title="<?= xoatatca ?>"><i class="far fa-trash-alt mr-2"></i><?= xoatatca ?></a>
+    </div>
+    <div class="card card-primary card-outline text-sm">
+        <div class="card-header">
+            <h3 class="card-title"><b>Bộ lọc tìm kiếm</b></h3>
+        </div>
+        <div class="card-body row">
+            <div class="form-group col-md-3 col-sm-3">
+                <div class="input-group">
+                    <input type="text" class="form-control float-right text-sm" placeholder="Khóa học" name="courses_id" id="courses_id" value="">
+                </div>
+            </div>
+            <div class="form-group col-md-3 col-sm-3">
+                <div class="input-group">
+                    <input type="text" class="form-control float-right text-sm" placeholder="Tên khóa học" name="courses_name" id="courses_name" value="<?= (isset($_GET['courses_name'])) ? $_GET['courses_name'] : '' ?>">
+                </div>
+            </div>
+            <div class="form-group col-md-3 col-sm-3">
+                <div class="input-group w-100 select-w-100">
+                    <select name="array_gplx[]" id="gplx" class="select multiselect-gplx" multiple="multiple">
+                        <?php foreach ($gplx as $v) { ?>
+                            <option class="opt-<?= $v['id'] ?>" <?= (!empty($arrayGPLX) ? (in_array($v['id'], $arrayGPLX) ? 'selected' : '') : '') ?> value="<?= $v['id'] ?>"><?= $v['namevi'] ?></option>
+                        <?php } ?>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group col-md-3 col-sm-3">
+                <div class="input-group">
+                    <input type="text" class="form-control float-right text-sm date_range" placeholder="Chọn từ - đến ngày khai giảng" name="date_open" id="date_open" value="<?= (isset($_GET['date_open'])) ? $_GET['date_open'] : '' ?>" readonly>
+                </div>
+            </div>
+            <div class="form-group col-md-3 col-sm-3">
+                <div class="input-group">
+                    <input type="text" class="form-control float-right text-sm" placeholder="Tên học viên" name="student_name" id="student_name" value="<?= (isset($_GET['student_name'])) ? $_GET['student_name'] : '' ?>">
+                </div>
+            </div>
+            <?php if($act != 'getBC1') { ?>
+                <div class="form-group col-md-3 col-sm-3">
+                    <div class="input-group">
+                        <input type="text" class="form-control float-right text-sm" placeholder="Mã học viên" name="student_id" id="student_id" value="<?= (isset($_GET['student_id'])) ? $_GET['student_id'] : '' ?>">
+                    </div>
+                </div>
+            <?php } ?>
+            <div class="form-group col-md-3 col-sm-3">
+                <div class="input-group">
+                    <input type="text" class="form-control float-right text-sm" placeholder="CCCD/CMND" name="student_cmt" id="student_cmt" value="<?= (isset($_GET['student_cmt'])) ? $_GET['student_cmt'] : '' ?>">
+                </div>
+            </div>
+            <div class="form-group col-md-3 col-sm-3">
+                <div class="input-group">
+                    <input type="text" class="form-control float-right text-sm date_range" placeholder="Chọn từ - đến ngày bế giảng" name="date_close" id="date_close" value="<?= (isset($_GET['date_close'])) ? $_GET['date_close'] : '' ?>" readonly>
+                </div>
+            </div>
+            <?php if ($act == 'man'){ ?>
+                <div class="form-group col-md-3 col-sm-3">
+                    <div class="input-group">
+                        <select name="result_bc2" id="result_bc2" class="select2 form-control text-sm">
+                            <option value="0">Tình trạng tốt nghiệp (Chưa - Đậu)</option>
+                            <option value="1" <?=(!empty($result_bc2) && $result_bc2 == 1) ? 'selected' : ''?>>Đậu</option>
+                            <option value="2" <?=(!empty($result_bc2) && $result_bc2 == 2) ? 'selected' : ''?>>Chưa</option>
+                        </select>
+                    </div>
+                </div>
+            <?php } ?>
+            <div class="form-group col-md-3 col-sm-3">
+                <div class="input-group">
+                    <select name="test_status" id="test_status" class="form-control text-sm">
+                        <option value="0">Tình trạng sát hạch(Đậu-Rớt-KĐĐK thi) </option>
+                        <option value="1" <?=(!empty($statusTest) && $statusTest == 1) ? 'selected' : ''?>>Đậu</option>
+                        <option value="2" <?=(!empty($statusTest) && $statusTest == 2) ? 'selected' : ''?>>Rớt</option>
+                        <option value="3" <?=(!empty($statusTest) && $statusTest == 3) ? 'selected' : ''?>>KĐĐK</option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group col-md-3 col-sm-3">
+                <div class="input-group">
+                    <input type="text" class="form-control float-right text-sm date_range" placeholder="Chọn từ ngày đến ngày Thi SH" name="date_sh" id="date_sh" value="<?= (isset($_GET['date_sh'])) ? $_GET['date_sh'] : '' ?>" readonly>
+                </div>
+            </div>
+            <div class="form-group col-md-3 col-sm-3">
+                <a class="btn btn-sm bg-gradient-primary text-white" onclick="searchMultiple('<?= $linkFilter ?>')" title="<?= timkiem ?>"><i class="fas fa-search mr-1"></i><?= timkiem ?></a>
+                <a class="btn btn-sm bg-gradient-success text-white ml-1" href="<?= $linkMan ?>" title="Refresh"><i class="fas fa-times mr-1"></i><?= huyloc ?></a>
+            </div>
+            <?php if ($act == 'man'){ ?>
+                <div class="col-12">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-3">
+                            <div class="title-box text-sm font-weight-normal mb-2"><b>Import file XML <br>( Import ngày tốt nghiệp sở GTVT cấp )</b></div>
+                            <form method="post" action="<?= $linkImportXML ?>" enctype="multipart/form-data">
+                                <div class="flex-input-file">
+                                    <div class="form-group">
+                                        <div class="custom-file my-custom-file">
+                                            <input type="file" class="custom-file-input" name="file-xml" id="file-xml">
+                                            <label class="custom-file-label custom-upload-file" for="file-xml"><?= chonfile ?></label>
+                                        </div>
+                                    </div>
+                                    <button type="submit" class="btn btn-sm bg-gradient-success" name="importExcel">Import</button>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                            <div class="title-box text-sm font-weight-normal mb-2"><b>Import file Excel <a class="link-file-example" href="<?=UPLOAD_FILE?>NgayTotNghiep-BC2.xlsx">File mẫu</a> <br>( Import ngày tốt nghiệp sở GTVT cấp )</b></div>
+                            <form method="post" action="<?= $linkImportExcel ?>" enctype="multipart/form-data">
+                                <div class="flex-input-file">
+                                    <div class="form-group">
+                                        <div class="custom-file my-custom-file">
+                                            <input type="file" class="custom-file-input" name="file-excel" id="file-excel">
+                                            <label class="custom-file-label custom-upload-file" for="file-excel"><?= chonfile ?></label>
+                                        </div>
+                                    </div>
+                                    <button type="submit" class="btn btn-sm bg-gradient-success" name="importExcel">Import</button>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                            <div class="title-box text-sm font-weight-normal mb-2"><b>Export file XML <br> (Giống file BC1)</b></div>
+                            <form method="post" action="" enctype="multipart/form-data">
+                                <a href="<?=$linkExportXML?>" class="btn btn-sm bg-gradient-success flex-shrink-0 w-100" name="exportExcel"><i class="fas fa-upload mr-2"></i>Export file XML</a>
+                            </form>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                            <div class="title-box text-sm font-weight-normal mb-2"><b>Export file Excel <br> (Giống file BC1)</b></div>
+                            <div class="d-flex gap">
+                                <a href="<?=$linkExportExcel?>" class="btn btn-sm bg-gradient-success flex-shrink-0 w-100" name="exportExcel"><i class="fas fa-upload mr-2"></i>Export file Excel</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12">
+                    <div class="row wrap-im-ex-2">
+                        <div class="col-md-3 col-sm-3">
+                            <div class="title-box text-sm font-weight-normal mb-2"><b>Export file XML <br> (Xuất file BC2)</b></div>
+                            <form method="post" action="" enctype="multipart/form-data">
+                                <a href="<?=$linkExportXMLBC2?>" class="btn btn-sm bg-gradient-success flex-shrink-0 w-100" name="exportExcel"><i class="fas fa-upload mr-2"></i>Export file XML</a>
+                            </form>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                            <div class="title-box text-sm font-weight-normal mb-2"><b>Export file Excel <br> (Xuất file BC2)</b></div>
+                            <div class="d-flex gap">
+                                <a href="<?=$linkExportExcelBC2?>" class="btn btn-sm bg-gradient-success flex-shrink-0 w-100" name="exportExcel"><i class="fas fa-upload mr-2"></i>Export file Excel</a>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                            <div class="title-box text-sm font-weight-normal mb-2"><b>Import file XML <br>( Import file kết quả sở trả về )</b></div>
+                            <form method="post" action="<?= $linkImportXMLKQBC2 ?>" enctype="multipart/form-data">
+                                <div class="flex-input-file">
+                                    <div class="form-group">
+                                        <div class="custom-file my-custom-file">
+                                            <input type="file" class="custom-file-input" name="file-xml" id="file-xml">
+                                            <label class="custom-file-label custom-upload-file" for="file-xml"><?= chonfile ?></label>
+                                        </div>
+                                    </div>
+                                    <button type="submit" class="btn btn-sm bg-gradient-success" name="importExcel">Import</button>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                            <div class="title-box text-sm font-weight-normal mb-2"><b>Import file Excel  <a class="link-file-example" href="<?=UPLOAD_FILE?>KQBC2-Excel.xlsx">File mẫu</a> <br>( Import file kết quả sở trả về )</b></div>
+                            <form method="post" action="<?= $linkImportExcelKQBC2 ?>" enctype="multipart/form-data">
+                                <div class="flex-input-file">
+                                    <div class="form-group">
+                                        <div class="custom-file my-custom-file">
+                                            <input type="file" class="custom-file-input" name="file-excel" id="file-excel">
+                                            <label class="custom-file-label custom-upload-file" for="file-excel"><?= chonfile ?></label>
+                                        </div>
+                                    </div>
+                                    <button type="submit" class="btn btn-sm bg-gradient-success" name="importExcel">Import</button>
+                                </div>
+                            </form>
+                        </div>
+                        
+                    </div>
+                </div>
+            <?php } elseif($act == "manImport"){?>
+                <div class="col-12">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6">
+                            <div class="title-box text-sm font-weight-normal mb-2"><b>Import file XML kết quả Sát Hạch-sở GTVT cấp </b></div>
+                            <form method="post" action="<?= $linkImportXMLFileSH ?>" enctype="multipart/form-data">
+                                <div class="flex-input-file">
+                                    <div class="form-group">
+                                        <div class="custom-file my-custom-file">
+                                            <input type="file" class="custom-file-input" name="file-xml" id="file-xml">
+                                            <label class="custom-file-label custom-upload-file" for="file-xml"><?= chonfile ?></label>
+                                        </div>
+                                    </div>
+                                    <button type="submit" class="btn btn-sm bg-gradient-success" name="importExcel">Import</button>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="col-md-6 col-sm-6">
+                            <div class="title-box text-sm font-weight-normal mb-2"><b>import file Excel kết quả Sát Hạch-sở GTVT cấp<a class="link-file-example" href="<?=UPLOAD_FILE?>FileSH-Excel.xlsx">File mẫu</a></b></div>
+                            <form method="post" action="<?= $linkImportExcelFileSH ?>" enctype="multipart/form-data">
+                                <div class="flex-input-file">
+                                    <div class="form-group">
+                                        <div class="custom-file my-custom-file">
+                                            <input type="file" class="custom-file-input" name="file-excel" id="file-excel">
+                                            <label class="custom-file-label custom-upload-file" for="file-excel"><?= chonfile ?></label>
+                                        </div>
+                                    </div>
+                                    <button type="submit" class="btn btn-sm bg-gradient-success" name="importExcel">Import</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            <?php } ?>
+        </div>
+        <div class="card-body pt-0">
+            <div class="search-result">
+                <div class="box-result">
+                    <?php if (!empty($dataResult['courses_id'])) { ?>
+                        <div class="title-result">Khoá học</div>
+                        <?php foreach ($dataResult['courses_id'] as $k => $name) { ?>
+                            <p class="result-btn" data-result="<?= $name ?>" data-category="courses_id"><?= $name ?> <span class="cancle-btn">x</span></p>
+                        <?php }
+                    } ?>
+                </div>
+
+                <div class="box-result">
+                    <?php if (!empty($dataResult['courses-name'])) { ?>
+                        <div class="title-result">Tên khoá học</div>
+                        <?php foreach ($dataResult['courses-name'] as $k => $name) { ?>
+                            <p class="result-btn" data-result="<?= $name ?>" data-category="courses_name"><?= $name ?> <span class="cancle-btn">x</span></p>
+                        <?php }
+                    } ?>
+                </div>
+
+                <div class="box-result">
+                    <?php if (!empty($arrayGPLX)) { ?>
+                        <div class="title-result">Hạng GPLX</div>
+                        <?php foreach ($arrayGPLX as $k => $name) { ?>
+                            <p class="result-btn result-gplx"><?= $func->getColDetail('namevi', 'gplx', $name); ?> <span class="cancle-btn" data-id="<?= $name ?>">x</span></p>
+                        <?php }
+                    } ?>
+                </div>
+
+                <div class="box-result">
+                    <?php if (!empty($dataResult['student-name'])) { ?>
+                        <div class="title-result">Tên học viên</div>
+                        <?php foreach ($dataResult['student-name'] as $k => $name) { ?>
+                            <p class="result-btn" data-result="<?= $name ?>" data-category="student_name"><?= $name ?> <span class="cancle-btn">x</span></p>
+                        <?php }
+                    } ?>
+                </div>
+
+                <div class="box-result">
+                    <?php if (!empty($dataResult['student-id'])) { ?>
+                        <div class="title-result">Mã học viên</div>
+                        <?php foreach ($dataResult['student-id'] as $k => $name) { ?>
+                            <p class="result-btn" data-result="<?= $name ?>" data-category="student_id"><?= $name ?> <span class="cancle-btn">x</span></p>
+                        <?php }
+                    } ?>
+                </div>
+
+                <div class="box-result">
+                    <?php if (!empty($dataResult['student-cmt'])) { ?>
+                        <div class="title-result">CMT/HC</div>
+                        <?php foreach ($dataResult['student-cmt'] as $k => $name) { ?>
+                            <p class="result-btn" data-result="<?= $name ?>" data-category="student_cmt"><?= $name ?> <span class="cancle-btn">x</span></p>
+                        <?php }
+                    } ?>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card card-primary card-outline text-sm mb-0">
+        <div class="card-header">
+            <h3 class="card-title"><b><?= danhsach ?> học viên</b></h3>
+        </div>
+        <div class="card-body table-responsive p-0">
+            <table class="table table-hover table-max-width">
+                <thead>
+                    <tr>
+                        <th class="align-middle" width="5%">
+                            <div class="custom-control custom-checkbox my-checkbox">
+                                <input type="checkbox" class="custom-control-input" id="selectall-checkbox">
+                                <label for="selectall-checkbox" class="custom-control-label"></label>
+                            </div>
+                        </th>
+                        <th class="align-middle text-center" width="3%">STT</th>
+                        <th class="align-middle">Mã học viên</th>
+                        <th class="align-middle">Họ tên</th>
+                        <th class="align-middle">CCCD/HC</th>
+                        <th class="align-middle">Ngày sinh</th>
+                        <th class="align-middle">Mã khóa học</th>
+                        <th class="align-middle">Tên khóa học </th>
+                        <th class="align-middle">Hạng xe</th>
+                        <?php if ($act == 'man'){ ?>
+                            <th class="align-middle text-center">Duyệt</th>
+                            <th class="align-middle text-center">Nhập ngày TN Sở GTVT cấp</th>
+                        <?php } elseif($act == 'manImport') { ?>
+                            <th class="align-middle text-center">Tình trạng SH</th>
+                            <th class="align-middle text-center">Nhập phí thi lại SH</th>
+                            <th class="align-middle text-center">Nhập ngày thi lại SH</th>
+                        <?php } ?>
+                    </tr>
+                </thead>
+                <?php if (empty($items)) { ?>
+                    <tbody>
+                        <tr>
+                            <td colspan="100" class="text-center"><?= khongcodulieu ?></td>
+                        </tr>
+                    </tbody>
+                <?php } else { ?>
+                    <tbody>
+                        <?php for ($i = 0; $i < count($items); $i++) {
+                            $dataStudent = json_decode($items[$i]['data_student'], true);
+                            $infoStudent = json_decode($items[$i]['infor_student'], true);
+                            ?>
+                            <tr>
+                                <td class="align-middle">
+                                    <div class="custom-control custom-checkbox my-checkbox">
+                                        <input type="checkbox" class="custom-control-input select-checkbox" id="select-checkbox-<?= $items[$i]['id'] ?>" value="<?= $items[$i]['id'] ?>">
+                                        <label for="select-checkbox-<?= $items[$i]['id'] ?>" class="custom-control-label"></label>
+                                    </div>
+                                </td>
+                                <td class="align-middle">
+                                    <input type="number" class="form-control form-control-mini m-auto update-numb" min="0" value="<?= $items[$i]['numb'] ?>" data-id="<?= $items[$i]['id'] ?>" data-table="student">
+                                </td>
+                                <td class="align-middle">
+                                    <?= $items[$i]['MA_DK'] ?>
+                                </td>
+                                <td class="align-middle">
+                                    <?= $items[$i]['HO_VA_TEN'] ?>
+                                </td>
+                                <td class="align-middle">
+                                    <?= $items[$i]['SO_CMT'] ?>
+                                </td>
+                                <td class="align-middle">
+                                    <?= (!empty($dataStudent['NGAY_SINH']) ? date('Y-m-d', $dataStudent['NGAY_SINH']) : '') ?>
+                                </td>
+                                <td class="align-middle">
+                                    <?= $items[$i]['MA_KHOA_HOC'] ?>
+                                </td>
+                                <td class="align-middle">
+                                    <?php $nameCourses = $d->rawQueryOne("select `TEN_KHOA_HOC` from #_courses where MA_KHOA_HOC = '" . $items[$i]['MA_KHOA_HOC'] . "' limit 0,1");
+                                    ?>
+                                    <?= $nameCourses['TEN_KHOA_HOC'] ?>
+                                </td>
+                                <td class="align-middle">
+                                    <?= $func->getColDetail('namevi', 'gplx', $items[$i]['HANG_GPLX']) ?>
+                                </td>
+                                <?php if ($act == "man"){  
+                                    if (!empty($dataStudent['KQ_BC2'])) {
+                                        if ($dataStudent['KQ_BC2'] == 1) {
+                                            $checkGraduate = "Đậu";
+                                            $classResult = "dau";
+                                            $noteResult = $dataStudent['KQ_BC2_GHICHU'];
+                                        } else {
+                                            $checkGraduate = "Rớt";
+                                            $classResult = "rot";
+                                            $noteResult = $dataStudent['KQ_BC2_GHICHU'];
+                                        }
+                                    } else {
+                                        $checkGraduate = "Chưa duyệt";
+                                        $classResult = "rot";
+                                        $noteResult = '';
+                                    }
+                                ?>
+                                    <td class="align-middle">
+                                        <div class="<?=(!empty($dataStudent['KQ_BC2']) ? 'result-bc2 note' : '')?>" data-tippy-content="<?=$noteResult?>">
+                                            <div class="btn-result-graduate <?=$classResult?>">
+                                                <?=$checkGraduate?>
+                                            </div>
+                                            <?php if (!empty($dataStudent['KQ_BC2'])) { ?>
+                                                <div class="note-bc2">
+                                                    Ghi chú
+                                                </div>
+                                            <?php } ?>
+                                        </div>
+                                    </td>
+                                    <td class="align-middle">
+                                        <input type="date" class="form-control text-sm date-graduation" value="<?=(!empty($dataStudent['NGAY_RA_QDTN']) ? date('Y-m-d', $dataStudent['NGAY_RA_QDTN']) : '')?>" data-id="<?= $items[$i]['id'] ?>">
+                                    </td>
+                                <?php } elseif($act == "manImport") {
+                                    if (!empty($dataStudent['KET_QUA_SH'])) {
+                                        if ($dataStudent['KET_QUA_SH'] != 'DA') {
+                                            $checkGraduate = $dataStudent['KET_QUA_SH'];
+                                            $classResult = "rot";
+                                            $noteResult = $dataStudent['KQ_BC2_GHICHU'];
+                                        } else {
+                                            $checkGraduate = $dataStudent['KET_QUA_SH'];
+                                            $classResult = "dau";
+                                            $noteResult = $dataStudent['KQ_BC2_GHICHU'];
+                                        }
+                                    } else {
+                                        $checkGraduate = "Chưa duyệt";
+                                        $classResult = "rot";
+                                        $noteResult = '';
+                                    }
+                                ?>
+                                    <td class="align-middle">
+                                        <div class="btn-result-graduate <?=$classResult?>">
+                                            <?=$checkGraduate?>
+                                        </div>
+                                    </td>
+                                    <td class="align-middle">
+                                        <?php if (!empty($dataStudent['KET_QUA_SH']) && $dataStudent['KET_QUA_SH'] != "DA"){ ?>
+                                            <input type="text" class="form-control text-sm fee-retest format-price fee-retest-<?=$items[$i]['id']?>" value="<?=$infoStudent['fee-retest']?>" data-id="<?= $items[$i]['id'] ?>">
+                                        <?php } else { ?>
+                                            <span class="icon-ban"><i class="fa-solid fa-ban"></i></span>
+                                        <?php } ?>
+                                    </td>
+
+                                    <td class="align-middle">
+                                        <?php if (!empty($dataStudent['KET_QUA_SH']) && $dataStudent['KET_QUA_SH'] != "DA"){ ?>
+                                            <input type="date" class="form-control text-sm date-retest" value="<?=(!empty($infoStudent['date-retest']) ? date('Y-m-d', $infoStudent['date-retest']) : '')?>" data-id="<?= $items[$i]['id'] ?>">
+                                        <?php } else { ?>
+                                            <span class="icon-ban"><i class="fa-solid fa-ban"></i></span>
+                                        <?php } ?>
+                                    </td>
+                                <?php } ?>
+                            </tr>
+                        <?php } ?>
+                    </tbody>
+                <?php } ?>
+            </table>
+        </div>
+    </div>
+    <?php if ($paging) { ?>
+        <div class="card-footer text-sm pb-0">
+            <?= $paging ?>
+        </div>
+    <?php } ?>
+    <div class="card-footer text-sm">
+        <a class="btn btn-sm bg-gradient-primary text-white" href="<?= $linkAdd ?>" title="Thêm mới"><i class="fas fa-plus mr-2"></i><?= themmoi ?></a>
+        <a class="btn btn-sm bg-gradient-danger text-white" id="delete-all" data-url="<?= $linkDelete ?><?= $strUrl ?>" title="<?= xoatatca ?>"><i class="far fa-trash-alt mr-2"></i><?= xoatatca ?></a>
+    </div>
+</section>

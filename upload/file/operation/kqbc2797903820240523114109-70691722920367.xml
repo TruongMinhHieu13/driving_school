@@ -1,0 +1,1212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BAO_CAO2>
+  <HEADER>
+    <MA_GIAO_DICH>221a8e7d-62ed-4bad-aa9f-c016ac6c97da</MA_GIAO_DICH>
+    <MA_DV_GUI>79038</MA_DV_GUI>
+    <TEN_DV_GUI>79</TEN_DV_GUI>
+    <NGAY_GUI>2024-05-23 11:41:09</NGAY_GUI>
+    <NGUOI_GUI></NGUOI_GUI>
+    <TONG_SO_BAN_GHI>91</TONG_SO_BAN_GHI>
+  </HEADER>
+  <DATA>
+    <HO_SOS>
+      <HO_SO>
+        <MA_DK>79038-20240403100614207</MA_DK>
+        <SO_HO_SO>009</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220610155953063</MA_DK>
+        <SO_HO_SO>014</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220615094026613</MA_DK>
+        <SO_HO_SO>053</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220705141124910</MA_DK>
+        <SO_HO_SO>006</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220705152023127</MA_DK>
+        <SO_HO_SO>039</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220706094645770</MA_DK>
+        <SO_HO_SO>070</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220706112130443</MA_DK>
+        <SO_HO_SO>004</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220706134636797</MA_DK>
+        <SO_HO_SO>008</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220706140146883</MA_DK>
+        <SO_HO_SO>017</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220707095841420</MA_DK>
+        <SO_HO_SO>094</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220715084619947</MA_DK>
+        <SO_HO_SO>045</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220715143539227</MA_DK>
+        <SO_HO_SO>022</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220718090521767</MA_DK>
+        <SO_HO_SO>063</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220718095923243</MA_DK>
+        <SO_HO_SO>071</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220718100552217</MA_DK>
+        <SO_HO_SO>099</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220718104343360</MA_DK>
+        <SO_HO_SO>085</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220718154101380</MA_DK>
+        <SO_HO_SO>038</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220719092437610</MA_DK>
+        <SO_HO_SO>088</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220725152932683</MA_DK>
+        <SO_HO_SO>028</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220725162207110</MA_DK>
+        <SO_HO_SO>070</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220726145033530</MA_DK>
+        <SO_HO_SO>082</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220811161453613</MA_DK>
+        <SO_HO_SO>006</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220812161642380</MA_DK>
+        <SO_HO_SO>048</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220813101846930</MA_DK>
+        <SO_HO_SO>071</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220908151604763</MA_DK>
+        <SO_HO_SO>014</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220908163235513</MA_DK>
+        <SO_HO_SO>036</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220909091838580</MA_DK>
+        <SO_HO_SO>072</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220909101218880</MA_DK>
+        <SO_HO_SO>106</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220909105145610</MA_DK>
+        <SO_HO_SO>130</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220913110751397</MA_DK>
+        <SO_HO_SO>035</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220920101505227</MA_DK>
+        <SO_HO_SO>035</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220929095006180</MA_DK>
+        <SO_HO_SO>112</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220929142150183</MA_DK>
+        <SO_HO_SO>113</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20220930165407210</MA_DK>
+        <SO_HO_SO>049</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20221024095331927</MA_DK>
+        <SO_HO_SO>008</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20221108091442907</MA_DK>
+        <SO_HO_SO>014</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20221115095730693</MA_DK>
+        <SO_HO_SO>018</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20221117145918727</MA_DK>
+        <SO_HO_SO>046</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20221201162341657</MA_DK>
+        <SO_HO_SO>022</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20221210085141430</MA_DK>
+        <SO_HO_SO>074</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20221214102246103</MA_DK>
+        <SO_HO_SO>108</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20221214110741480</MA_DK>
+        <SO_HO_SO>112</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20221228105915560</MA_DK>
+        <SO_HO_SO>106</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230318104816737</MA_DK>
+        <SO_HO_SO>050</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230403142931233</MA_DK>
+        <SO_HO_SO>001</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230428155349863</MA_DK>
+        <SO_HO_SO>040</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230510100741447</MA_DK>
+        <SO_HO_SO>028</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230511143944657</MA_DK>
+        <SO_HO_SO>019</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230603142251370</MA_DK>
+        <SO_HO_SO>011</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230615154315160</MA_DK>
+        <SO_HO_SO>035</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230615155854767</MA_DK>
+        <SO_HO_SO>036</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230621152840837</MA_DK>
+        <SO_HO_SO>047</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230626162058870</MA_DK>
+        <SO_HO_SO>020</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230627101740583</MA_DK>
+        <SO_HO_SO>011</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230711145143533</MA_DK>
+        <SO_HO_SO>047</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230711145407580</MA_DK>
+        <SO_HO_SO>019</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230711145918960</MA_DK>
+        <SO_HO_SO>022</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230711153534613</MA_DK>
+        <SO_HO_SO>040</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230711153814743</MA_DK>
+        <SO_HO_SO>043</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230719143411313</MA_DK>
+        <SO_HO_SO>025</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230720163210683</MA_DK>
+        <SO_HO_SO>021</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230724102311320</MA_DK>
+        <SO_HO_SO>015</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230724141757290</MA_DK>
+        <SO_HO_SO>003</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230724143128760</MA_DK>
+        <SO_HO_SO>009</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230811163134360</MA_DK>
+        <SO_HO_SO>007</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230811170029413</MA_DK>
+        <SO_HO_SO>014</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230817161633007</MA_DK>
+        <SO_HO_SO>029</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230817165633017</MA_DK>
+        <SO_HO_SO>007</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230818085414547</MA_DK>
+        <SO_HO_SO>009</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230818094027490</MA_DK>
+        <SO_HO_SO>014</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230818101222873</MA_DK>
+        <SO_HO_SO>023</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230818105139537</MA_DK>
+        <SO_HO_SO>031</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230823151206240</MA_DK>
+        <SO_HO_SO>019</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230825145441783</MA_DK>
+        <SO_HO_SO>001</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230830094736260</MA_DK>
+        <SO_HO_SO>003</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230830141022707</MA_DK>
+        <SO_HO_SO>001</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230831101135510</MA_DK>
+        <SO_HO_SO>021</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230913104951053</MA_DK>
+        <SO_HO_SO>020</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230913105238613</MA_DK>
+        <SO_HO_SO>022</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230913105905777</MA_DK>
+        <SO_HO_SO>024</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230913110425473</MA_DK>
+        <SO_HO_SO>025</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230913110646283</MA_DK>
+        <SO_HO_SO>026</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230913111819360</MA_DK>
+        <SO_HO_SO>032</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230913145354877</MA_DK>
+        <SO_HO_SO>012</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230913153013337</MA_DK>
+        <SO_HO_SO>032</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230913154528987</MA_DK>
+        <SO_HO_SO>041</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230913155522303</MA_DK>
+        <SO_HO_SO>045</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230913160540893</MA_DK>
+        <SO_HO_SO>047</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230921153440560</MA_DK>
+        <SO_HO_SO>055</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20230921153636010</MA_DK>
+        <SO_HO_SO>056</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20240116090330600</MA_DK>
+        <SO_HO_SO>003</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+    </HO_SOS>
+  </DATA>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>Y+Oiy31IgTF8qDGRnrdXSeCLzjU=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>R6JbreN1SrgSlf39TPPwWGtgSz6g6hvmnjBOU5so/psqossbz+g7Co5VWhgmjqCAc4bK3dN9uuyVq57aD5X28HjmMeLisb0WLOHRG4GK9vNztdId3h785jEsM0hhfhqqjOYv2y/iIs30f2aNFTg1u63jvsXw/drW+53hBbzkf6E=</SignatureValue>
+  </Signature>
+</BAO_CAO2>

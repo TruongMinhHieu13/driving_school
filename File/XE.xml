@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DSXE>
+  <DATA>
+    <XES>
+      <XE>
+        <STT>1</STT>
+        <IDXE>NGUYỄN TUẤN</IDXE>
+        <BIEN_SO_XE>2001-5-25</BIEN_SO_XE>
+        <HIEU_XE>19841130</HIEU_XE>
+        <LOAI_XE>19841130</LOAI_XE>
+        <SO_CHO>19841130</SO_CHO>
+        <NAM_SX>19841130</NAM_SX>
+        <MAU_SON>19841130</MAU_SON>
+        <HANG>19841130</HANG>
+        <SHHD>19841130</SHHD>
+        <SO_KHUNG>19841130</SO_KHUNG>
+        <SO_MAY>19841130</SO_MAY>
+        <SO_GPLX>19841130</SO_GPLX>
+        <NGAY_CAP_GPLX>19841130</NGAY_CAP_GPLX>
+        <NGAY_HH_GPLX>19841130</NGAY_HH_GPLX>
+        <SERI_DAT>19841130</SERI_DAT>
+        <IMEI1>19841130</IMEI1>
+        <IMEI2>29842230</IMEI2>
+        <CHU_XE>29842230</CHU_XE>
+        <SDT>29842230</SDT>
+        <SO_KIEM_DINH>29842230</SO_KIEM_DINH>
+      </XE>
+    </XES>
+  </DATA>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue></DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue></SignatureValue>
+  </Signature>
+</DSXE>
+

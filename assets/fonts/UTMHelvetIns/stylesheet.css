@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'UTM HelvetIns';
+    src: url('UTMHelvetIns.eot');
+    src: url('UTMHelvetIns.eot?#iefix') format('embedded-opentype'),
+        url('UTMHelvetIns.woff2') format('woff2'),
+        url('UTMHelvetIns.woff') format('woff'),
+        url('UTMHelvetIns.ttf') format('truetype'),
+        url('UTMHelvetIns.svg#UTMHelvetIns') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

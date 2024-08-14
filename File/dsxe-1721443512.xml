@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DSXE>
+  <DATA>
+    <XES>
+      <XE>
+        <STT>1</STT>
+        <IDXE>51F-483.30</IDXE>
+        <BIEN_SO_XE>51F-483.30</BIEN_SO_XE>
+        <HIEU_XE>Toyota</HIEU_XE>
+        <LOAI_XE>Inova</LOAI_XE>
+        <SO_CHO>7 chổ</SO_CHO>
+        <NAM_SX>2002</NAM_SX>
+        <MAU_SON/>
+        <HANG>B2</HANG>
+        <SHHD>SH</SHHD>
+        <SO_KHUNG>6903182</SO_KHUNG>
+        <SO_MAY>489490</SO_MAY>
+        <SO_GPLX>116914</SO_GPLX>
+        <NGAY_CAP_GPLX/>
+        <NGAY_HH_GPLX>2024-11-13</NGAY_HH_GPLX>
+        <SERI_DAT/>
+        <IMEI1/>
+        <IMEI2/>
+        <CHU_XE>GV  NGUYỄN TRỌNG THÁI CC</CHU_XE>
+        <SĐT/>
+        <SO_KIEM_DINH/>
+      </XE>
+      <XE>
+        <STT>2</STT>
+        <IDXE>51G-924.86</IDXE>
+        <BIEN_SO_XE>51G-924.86</BIEN_SO_XE>
+        <HIEU_XE>Toyota</HIEU_XE>
+        <LOAI_XE>vios</LOAI_XE>
+        <SO_CHO>5</SO_CHO>
+        <NAM_SX>2019</NAM_SX>
+        <MAU_SON/>
+        <HANG>B11</HANG>
+        <SHHD>SH</SHHD>
+        <SO_KHUNG>5060093</SO_KHUNG>
+        <SO_MAY>415850</SO_MAY>
+        <SO_GPLX/>
+        <NGAY_CAP_GPLX/>
+        <NGAY_HH_GPLX/>
+        <SERI_DAT/>
+        <IMEI1/>
+        <IMEI2/>
+        <CHU_XE>GV NGUYỄN BẮC PHƯƠNG </CHU_XE>
+        <SĐT>23.09.23</SĐT>
+        <SO_KIEM_DINH/>
+      </XE>
+    </XES>
+  </DATA>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+        <DigestValue/>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue/>
+  </Signature>
+</DSXE>

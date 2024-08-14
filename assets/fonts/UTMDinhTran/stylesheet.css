@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'UTM Dinh Tran';
+    src: url('UTMDinhTran.eot');
+    src: url('UTMDinhTran.eot?#iefix') format('embedded-opentype'),
+        url('UTMDinhTran.woff2') format('woff2'),
+        url('UTMDinhTran.woff') format('woff'),
+        url('UTMDinhTran.ttf') format('truetype'),
+        url('UTMDinhTran.svg#UTMDinhTran') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

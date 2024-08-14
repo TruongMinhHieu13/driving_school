@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BAO_CAO2>
+  <HEADER>
+    <MA_GIAO_DICH>221a8e7d-62ed-4bad-aa9f-c016ac6c97da</MA_GIAO_DICH>
+    <MA_DV_GUI>79038</MA_DV_GUI>
+    <TEN_DV_GUI>79</TEN_DV_GUI>
+    <NGAY_GUI>2024-05-23 11:41:09</NGAY_GUI>
+    <NGUOI_GUI></NGUOI_GUI>
+    <TONG_SO_BAN_GHI>91</TONG_SO_BAN_GHI>
+  </HEADER>
+  <DATA>
+    <HO_SOS>
+      <HO_SO>
+        <MA_DK>79038-20240403091138157</MA_DK>
+        <SO_HO_SO>009</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20240403104735873</MA_DK>
+        <SO_HO_SO>014</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20240403103749607</MA_DK>
+        <SO_HO_SO>053</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20240402164856570</MA_DK>
+        <SO_HO_SO>006</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20240403100614207</MA_DK>
+        <SO_HO_SO>039</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20240403103337663</MA_DK>
+        <SO_HO_SO>070</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>1</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+      <HO_SO>
+        <MA_DK>79038-20240403092633923</MA_DK>
+        <SO_HO_SO>004</SO_HO_SO>
+        <MA_BC2>3447L/TÐ-ÐT</MA_BC2>
+        <KQ_BC2>0</KQ_BC2>
+        <BC2_KQ_LYDO_TUCHOI></BC2_KQ_LYDO_TUCHOI>
+        <KQ_BC2_GHICHU>Không hợp lệ</KQ_BC2_GHICHU>
+        <MA_KY_SH />
+        <SO_BAO_DANH />
+        <LAN_SH></LAN_SH>
+        <SO_QD_SH />
+        <NGAY_QD_SH></NGAY_QD_SH>
+      </HO_SO>
+    </HO_SOS>
+  </DATA>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>Y+Oiy31IgTF8qDGRnrdXSeCLzjU=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>R6JbreN1SrgSlf39TPPwWGtgSz6g6hvmnjBOU5so/psqossbz+g7Co5VWhgmjqCAc4bK3dN9uuyVq57aD5X28HjmMeLisb0WLOHRG4GK9vNztdId3h785jEsM0hhfhqqjOYv2y/iIs30f2aNFTg1u63jvsXw/drW+53hBbzkf6E=</SignatureValue>
+  </Signature>
+</BAO_CAO2>
